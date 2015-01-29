@@ -1,49 +1,75 @@
-/*
- * Licensed to the Apache Software Foundation (ASF) under one
- * or more contributor license agreements.  See the NOTICE file
- * distributed with this work for additional information
- * regarding copyright ownership.  The ASF licenses this file
- * to you under the Apache License, Version 2.0 (the
- * "License"); you may not use this file except in compliance
- * with the License.  You may obtain a copy of the License at
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing,
- * software distributed under the License is distributed on an
- * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
- * KIND, either express or implied.  See the License for the
- * specific language governing permissions and limitations
- * under the License.
- */
-var app = {
-    // Application Constructor
-    initialize: function() {
-        this.bindEvents();
-    },
-    // Bind Event Listeners
-    //
-    // Bind any events that are required on startup. Common events are:
-    // 'load', 'deviceready', 'offline', and 'online'.
-    bindEvents: function() {
-        document.addEventListener('deviceready', this.onDeviceReady, false);
-    },
-    // deviceready Event Handler
-    //
-    // The scope of 'this' is the event. In order to call the 'receivedEvent'
-    // function, we must explicitly call 'app.receivedEvent(...);'
-    onDeviceReady: function() {
-        app.receivedEvent('deviceready');
-    },
-    // Update DOM on a Received Event
-    receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
-        var listeningElement = parentElement.querySelector('.listening');
-        var receivedElement = parentElement.querySelector('.received');
 
-        listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
+document.addEventListener("deviceready", init, false);
 
-        console.log('Received Event: ' + id);
+function init() {
+    console.log("This device is ready to start!");
+}
+
+function onPrompt(results) {
+    console.log("User did decision.");
+    console.log("Pressed button is :" + results.buttonIndex);
+    console.log("Entered text is :" + results.input1);
+    if (results.buttonIndex == 1) {
+        saveTextToFile(results.input1);        
     }
-};
+}
+
+function myFunction() {
+    navigator.notification.prompt(
+        'Please enter the text you would like to save!',  // message
+        onPrompt,                  // callback to invoke
+        'Registration',            // title
+        ['Ok','Exit'],             // buttonLabels
+        'Hello World'                 // defaultText
+    );
+}
+
+function fail(e) {
+    console.log("FileSystem Error");
+    console.dir(e);
+}
+
+function saveTextToFile(theText) {
+
+    console.log("Start to save data");
+    window.requestFileSystem(LocalFileSystem.PERSISTENT, 0, function (fileSystem) {
+        
+        console.log("Filesystem loaded");
+        console.log(fileSystem.root);
+
+        console.log("Create file and write");
+
+        fileSystem.root.getFile("test.txt", {create: true, exclusive: false}, function (fileEntry) {
+                fileEntry.createWriter( function (fileWriter) {
+                console.log("Create file and write");
+                fileWriter.write(theText);  
+            }, fail);
+        }, fail);
+    }, fail);
+}
+
+function loadDataFromDevice() {
+    console.log("Start to load data");
+    window.requestFileSystem(LocalFileSystem.PERSISTENT, 0, function (fileSystem) {
+        console.log("Filesystem request successfully");
+        console.log(fileSystem.root.nativeURL);
+        fileSystem.root.getFile("test.txt", {create: true, exclusive: false}, function (fileEntry) {
+            console.log(fileEntry);
+            fileEntry.file( function (file) {
+                console.log(file);
+                var reader = new FileReader();
+
+                reader.onloadend = function (e) {
+                    console.log(e.target.result);
+                    navigator.notification.alert(
+                        e.target.result,  // message
+                        function () {},         // callback
+                        'Game Over',            // title
+                        'Done'                  // buttonName
+                    );
+                };
+                reader.readAsText(file);
+            });
+        }, fail);
+    }, fail);
+}

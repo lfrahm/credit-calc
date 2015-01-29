@@ -138,3 +138,2057 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 
 2015-01-29 10:41:30.944 CreditCalc[15227:1502123] Resetting plugins due to page load.
 2015-01-29 10:41:31.187 CreditCalc[15227:1502123] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/75389C7B-A9E2-45C7-8FD3-0AFCAA39A4EF/CreditCalc.app/www/index.html
+2015-01-29 10:48:19.361 CreditCalc[15445:1515375] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/817744F0-8B90-4367-B931-A5DA978FD7D8/Library/Cookies/Cookies.binarycookies
+2015-01-29 10:48:19.817 CreditCalc[15445:1515375] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 10:48:19.818 CreditCalc[15445:1515375] Multi-tasking -> Device: YES, App: YES
+2015-01-29 10:48:19.821 CreditCalc[15445:1515375] Unlimited access to network resources
+2015-01-29 10:48:19.843 CreditCalc[15445:1515375] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 10:48:20.920 CreditCalc[15445:1515375] Resetting plugins due to page load.
+2015-01-29 10:48:21.236 CreditCalc[15445:1515375] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/A3B94345-70C9-4A8E-9501-C6414652EF9D/CreditCalc.app/www/index.html
+2015-01-29 10:52:52.276 CreditCalc[15647:1531533] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/8D3F63B5-0097-4DF3-BCD8-E8EAB7388619/Library/Cookies/Cookies.binarycookies
+2015-01-29 10:52:52.463 CreditCalc[15647:1531533] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 10:52:52.464 CreditCalc[15647:1531533] Multi-tasking -> Device: YES, App: YES
+2015-01-29 10:52:52.466 CreditCalc[15647:1531533] Unlimited access to network resources
+2015-01-29 10:52:52.475 CreditCalc[15647:1531533] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 10:52:53.059 CreditCalc[15647:1531533] Resetting plugins due to page load.
+2015-01-29 10:52:53.246 CreditCalc[15647:1531533] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/B2CDECA9-3CFA-4E31-B812-7D3EFA1596FF/CreditCalc.app/www/index.html
+2015-01-29 10:53:07.246 CreditCalc[15647:1531533] CDVWebViewDelegate: Navigation started when state=1
+2015-01-29 10:53:07.247 CreditCalc[15647:1531533] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-29 10:57:48.869 CreditCalc[15850:1545637] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/9D0126CC-D746-4D72-A2DA-18C662C400C8/Library/Cookies/Cookies.binarycookies
+2015-01-29 10:57:49.071 CreditCalc[15850:1545637] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 10:57:49.072 CreditCalc[15850:1545637] Multi-tasking -> Device: YES, App: YES
+2015-01-29 10:57:49.074 CreditCalc[15850:1545637] Unlimited access to network resources
+2015-01-29 10:57:49.085 CreditCalc[15850:1545637] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 10:57:49.809 CreditCalc[15850:1545637] Resetting plugins due to page load.
+2015-01-29 10:57:50.107 CreditCalc[15850:1545637] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/C65D7112-ADF7-4DBF-8266-016B20969477/CreditCalc.app/www/index.html
+2015-01-29 11:13:22.561 CreditCalc[16213:1588306] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/53A442F2-215A-4C54-A1CA-F04159D45A9A/Library/Cookies/Cookies.binarycookies
+2015-01-29 11:13:22.830 CreditCalc[16213:1588306] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 11:13:22.830 CreditCalc[16213:1588306] Multi-tasking -> Device: YES, App: YES
+2015-01-29 11:13:22.843 CreditCalc[16213:1588306] Unlimited access to network resources
+2015-01-29 11:13:22.850 CreditCalc[16213:1588306] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 11:13:23.256 CreditCalc[16213:1588306] [CDVTimer][file] 22.602975ms
+2015-01-29 11:13:23.256 CreditCalc[16213:1588306] [CDVTimer][TotalPluginStartup] 22.882998ms
+2015-01-29 11:13:23.667 CreditCalc[16213:1588306] Resetting plugins due to page load.
+2015-01-29 11:13:23.996 CreditCalc[16213:1588306] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/7BEFE054-5657-4B58-8B6D-9943E06E7BBF/CreditCalc.app/www/index.html
+2015-01-29 11:14:01.366 CreditCalc[16467:1592597] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/44B965BB-1A73-4D5A-BB8E-6FE2632069C5/Library/Cookies/Cookies.binarycookies
+2015-01-29 11:14:01.518 CreditCalc[16467:1592597] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 11:14:01.519 CreditCalc[16467:1592597] Multi-tasking -> Device: YES, App: YES
+2015-01-29 11:14:01.530 CreditCalc[16467:1592597] Unlimited access to network resources
+2015-01-29 11:14:01.568 CreditCalc[16467:1592597] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 11:14:01.923 CreditCalc[16467:1592597] [CDVTimer][file] 3.431022ms
+2015-01-29 11:14:01.923 CreditCalc[16467:1592597] [CDVTimer][TotalPluginStartup] 3.637969ms
+2015-01-29 11:14:02.074 CreditCalc[16467:1592597] Resetting plugins due to page load.
+2015-01-29 11:14:02.349 CreditCalc[16467:1592597] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/8F824095-DA2E-4F8A-8E64-979A607F7AA5/CreditCalc.app/www/index.html
+2015-01-29 11:16:12.626 CreditCalc[16680:1600963] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/A2425D79-CAEC-4030-9857-C56631224B51/Library/Cookies/Cookies.binarycookies
+2015-01-29 11:16:12.812 CreditCalc[16680:1600963] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 11:16:12.813 CreditCalc[16680:1600963] Multi-tasking -> Device: YES, App: YES
+2015-01-29 11:16:12.816 CreditCalc[16680:1600963] Unlimited access to network resources
+2015-01-29 11:16:12.828 CreditCalc[16680:1600963] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 11:16:13.140 CreditCalc[16680:1600963] [CDVTimer][file] 16.481042ms
+2015-01-29 11:16:13.140 CreditCalc[16680:1600963] [CDVTimer][TotalPluginStartup] 16.694963ms
+2015-01-29 11:16:13.424 CreditCalc[16680:1600963] Resetting plugins due to page load.
+2015-01-29 11:16:13.620 CreditCalc[16680:1600963] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/0816197E-667E-44DE-962B-A13E2A0E0237/CreditCalc.app/www/index.html
+2015-01-29 11:49:45.495 CreditCalc[17757:1671174] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B880BEE4-0ADD-443D-868B-E21811F73CA7/Library/Cookies/Cookies.binarycookies
+2015-01-29 11:49:45.957 CreditCalc[17757:1671174] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 11:49:45.958 CreditCalc[17757:1671174] Multi-tasking -> Device: YES, App: YES
+2015-01-29 11:49:45.980 CreditCalc[17757:1671174] Unlimited access to network resources
+2015-01-29 11:49:45.999 CreditCalc[17757:1671174] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 11:49:46.896 CreditCalc[17757:1671174] [CDVTimer][file] 13.777018ms
+2015-01-29 11:49:46.896 CreditCalc[17757:1671174] [CDVTimer][TotalPluginStartup] 14.014006ms
+2015-01-29 11:49:47.503 CreditCalc[17757:1671174] Resetting plugins due to page load.
+2015-01-29 11:49:47.984 CreditCalc[17757:1671174] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/026D1BF8-91D3-432F-A1B5-B53EA11510D6/CreditCalc.app/www/index.html#
+2015-01-29 11:56:35.805 CreditCalc[18065:1690598] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/050041B7-0529-4F3E-9CED-762632A031BB/Library/Cookies/Cookies.binarycookies
+2015-01-29 11:56:36.020 CreditCalc[18065:1690598] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 11:56:36.020 CreditCalc[18065:1690598] Multi-tasking -> Device: YES, App: YES
+2015-01-29 11:56:36.026 CreditCalc[18065:1690598] Unlimited access to network resources
+2015-01-29 11:56:36.034 CreditCalc[18065:1690598] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 11:56:36.337 CreditCalc[18065:1690598] [CDVTimer][file] 15.322030ms
+2015-01-29 11:56:36.337 CreditCalc[18065:1690598] [CDVTimer][TotalPluginStartup] 15.537024ms
+2015-01-29 11:56:36.681 CreditCalc[18065:1690598] Resetting plugins due to page load.
+2015-01-29 11:56:36.941 CreditCalc[18065:1690598] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/64C69594-7738-495A-8EC1-5C886FDB41A0/CreditCalc.app/www/index.html
+2015-01-29 11:56:37.019 CreditCalc[18065:1690598] This device is ready to start!
+2015-01-29 11:56:37.026 CreditCalc[18065:1690598] Text is: <!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/foundation.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="off-canvas-wrap" data-offcanvas>
+          <div class="inner-wrap">
+            <nav class="tab-bar">
+              <section class="left-small">
+                <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+              </section>
+
+              <section class="middle tab-bar-section">
+                <h1 class="title">Expo US Pavillion</h1>
+              </section>
+            </nav>
+
+            <aside class="left-off-canvas-menu">
+              <ul class="off-canvas-list">
+                <li><label  style="height:100px">Foundation</label></li>
+                <li><a href="#">Summary</a></li>
+                <li><a href="#">This</a></li>
+                <li><a href="#">That</a></li>
+                <li><a href="#">Some Info</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">...</a></li>
+              </ul>
+            </aside>
+
+            <section class="main-section"  style="height:400px">
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <a id="saveButton" href="#" class="button expand" onclick="myFunction()">Save Data on Device</a>
+                </div>
+            </section>
+
+          <a class="exit-off-canvas"></a>
+
+          </div>
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/angular.min.js"></script>
+        <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+        <script type="text/javascript" src="js/foundation.min.js"></script>
+        <script type="text/javascript" src="js/foundation/foundation.offcanvas.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script>
+            $(document).foundation();
+        </script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+        <script type="text/javascript">
+            function myFunction() {
+                document.getElementById("saveButton").style.color = "red";
+            }
+        </script>
+    </body>
+</html>
+
+
+2015-01-29 11:56:37.028 CreditCalc[18065:1690598] Error in Success callbackId: File1751678810 : TypeError: null is not an object (evaluating 'document.querySelector("#textArea").innerHTML = this.result')
+2015-01-29 12:00:24.661 CreditCalc[18306:1698666] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/7F8A3232-9BF3-4D8E-BA06-EE0642832F4F/Library/Cookies/Cookies.binarycookies
+2015-01-29 12:00:24.803 CreditCalc[18306:1698666] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 12:00:24.803 CreditCalc[18306:1698666] Multi-tasking -> Device: YES, App: YES
+2015-01-29 12:00:24.805 CreditCalc[18306:1698666] Unlimited access to network resources
+2015-01-29 12:00:24.816 CreditCalc[18306:1698666] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 12:00:25.111 CreditCalc[18306:1698666] [CDVTimer][file] 17.930984ms
+2015-01-29 12:00:25.111 CreditCalc[18306:1698666] [CDVTimer][TotalPluginStartup] 18.158972ms
+2015-01-29 12:00:25.529 CreditCalc[18306:1698666] Resetting plugins due to page load.
+2015-01-29 12:00:25.764 CreditCalc[18306:1698666] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/98EAF398-5394-4D2E-91ED-3AD903CFC482/CreditCalc.app/www/index.html
+2015-01-29 12:00:25.819 CreditCalc[18306:1698666] This device is ready to start!
+2015-01-29 12:00:25.824 CreditCalc[18306:1698666] Text is: <!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/foundation.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="off-canvas-wrap" data-offcanvas>
+          <div class="inner-wrap">
+            <nav class="tab-bar">
+              <section class="left-small">
+                <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+              </section>
+
+              <section class="middle tab-bar-section">
+                <h1 class="title">Expo US Pavillion</h1>
+              </section>
+            </nav>
+
+            <aside class="left-off-canvas-menu">
+              <ul class="off-canvas-list">
+                <li><label  style="height:100px">Foundation</label></li>
+                <li><a href="#">Summary</a></li>
+                <li><a href="#">This</a></li>
+                <li><a href="#">That</a></li>
+                <li><a href="#">Some Info</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">...</a></li>
+              </ul>
+            </aside>
+
+            <section class="main-section"  style="height:400px">
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <a id="saveButton" href="#" class="button expand" onclick="myFunction()">Save Data on Device</a>
+                </div>
+            </section>
+
+          <a class="exit-off-canvas"></a>
+
+          </div>
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/angular.min.js"></script>
+        <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+        <script type="text/javascript" src="js/foundation.min.js"></script>
+        <script type="text/javascript" src="js/foundation/foundation.offcanvas.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script>
+            $(document).foundation();
+        </script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+        <script type="text/javascript">
+            function myFunction() {
+                console.log("Button has been pushed");
+                document.getElementById("saveButton").style.color = "red";
+            }
+        </script>
+    </body>
+</html>
+
+
+2015-01-29 12:00:25.825 CreditCalc[18306:1698666] Error in Success callbackId: File1497867123 : TypeError: null is not an object (evaluating 'document.querySelector("#textArea").innerHTML = this.result')
+2015-01-29 12:00:48.149 CreditCalc[18306:1698666] Button has been pushed
+2015-01-29 12:00:49.185 CreditCalc[18306:1698666] Button has been pushed
+2015-01-29 12:00:50.103 CreditCalc[18306:1698666] CDVWebViewDelegate: Navigation started when state=1
+2015-01-29 12:00:50.104 CreditCalc[18306:1698666] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-29 12:00:50.105 CreditCalc[18306:1698666] Button has been pushed
+2015-01-29 12:00:58.226 CreditCalc[18306:1698666] CDVWebViewDelegate: Navigation started when state=1
+2015-01-29 12:00:58.226 CreditCalc[18306:1698666] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-29 12:00:58.228 CreditCalc[18306:1698666] Button has been pushed
+2015-01-29 12:00:59.194 CreditCalc[18306:1698666] CDVWebViewDelegate: Navigation started when state=1
+2015-01-29 12:00:59.194 CreditCalc[18306:1698666] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-29 12:00:59.196 CreditCalc[18306:1698666] Button has been pushed
+2015-01-29 12:00:59.848 CreditCalc[18306:1698666] CDVWebViewDelegate: Navigation started when state=1
+2015-01-29 12:00:59.848 CreditCalc[18306:1698666] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-29 12:00:59.849 CreditCalc[18306:1698666] Button has been pushed
+2015-01-29 12:02:02.359 CreditCalc[18525:1704016] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/58F14C3D-B3F9-4B0C-A6AE-6302467F3FE3/Library/Cookies/Cookies.binarycookies
+2015-01-29 12:02:02.479 CreditCalc[18525:1704016] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 12:02:02.479 CreditCalc[18525:1704016] Multi-tasking -> Device: YES, App: YES
+2015-01-29 12:02:02.481 CreditCalc[18525:1704016] Unlimited access to network resources
+2015-01-29 12:02:02.496 CreditCalc[18525:1704016] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 12:02:02.799 CreditCalc[18525:1704016] [CDVTimer][file] 28.956056ms
+2015-01-29 12:02:02.799 CreditCalc[18525:1704016] [CDVTimer][TotalPluginStartup] 29.164970ms
+2015-01-29 12:02:03.192 CreditCalc[18525:1704016] Resetting plugins due to page load.
+2015-01-29 12:02:03.441 CreditCalc[18525:1704016] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/9E206EAA-3D9F-41D0-89A4-F35CFC1AE32A/CreditCalc.app/www/index.html
+2015-01-29 12:02:03.505 CreditCalc[18525:1704016] This device is ready to start!
+2015-01-29 12:02:03.510 CreditCalc[18525:1704016] Text is: <!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/foundation.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="off-canvas-wrap" data-offcanvas>
+          <div class="inner-wrap">
+            <nav class="tab-bar">
+              <section class="left-small">
+                <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+              </section>
+
+              <section class="middle tab-bar-section">
+                <h1 class="title">Expo US Pavillion</h1>
+              </section>
+            </nav>
+
+            <aside class="left-off-canvas-menu">
+              <ul class="off-canvas-list">
+                <li><label  style="height:100px">Foundation</label></li>
+                <li><a href="#">Summary</a></li>
+                <li><a href="#">This</a></li>
+                <li><a href="#">That</a></li>
+                <li><a href="#">Some Info</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">...</a></li>
+              </ul>
+            </aside>
+
+            <section class="main-section"  style="height:400px">
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <button id="saveButton" href="#" class="button expand" onclick="myFunction()">Save Data on Device</button>
+                </div>
+            </section>
+
+          <a class="exit-off-canvas"></a>
+
+          </div>
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/angular.min.js"></script>
+        <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+        <script type="text/javascript" src="js/foundation.min.js"></script>
+        <script type="text/javascript" src="js/foundation/foundation.offcanvas.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script>
+            $(document).foundation();
+        </script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+        <script type="text/javascript">
+            function myFunction() {
+                console.log("Button has been pushed");
+                document.getElementById("saveButton").style.color = "red";
+            }
+        </script>
+    </body>
+</html>
+
+
+2015-01-29 12:02:03.511 CreditCalc[18525:1704016] Error in Success callbackId: File543963972 : TypeError: null is not an object (evaluating 'document.querySelector("#textArea").innerHTML = this.result')
+2015-01-29 12:02:51.242 CreditCalc[18525:1704016] Button has been pushed
+2015-01-29 12:02:54.360 CreditCalc[18525:1704016] Button has been pushed
+2015-01-29 12:02:59.917 CreditCalc[18525:1704016] Button has been pushed
+2015-01-29 12:03:11.304 CreditCalc[18525:1704016] Button has been pushed
+2015-01-29 12:05:13.326 CreditCalc[18749:1712440] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/1ED62A9F-6626-4726-9B35-A1CA28139AEE/Library/Cookies/Cookies.binarycookies
+2015-01-29 12:05:13.462 CreditCalc[18749:1712440] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 12:05:13.463 CreditCalc[18749:1712440] Multi-tasking -> Device: YES, App: YES
+2015-01-29 12:05:13.465 CreditCalc[18749:1712440] Unlimited access to network resources
+2015-01-29 12:05:13.469 CreditCalc[18749:1712440] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 12:05:13.735 CreditCalc[18749:1712440] [CDVTimer][file] 2.517998ms
+2015-01-29 12:05:13.736 CreditCalc[18749:1712440] [CDVTimer][TotalPluginStartup] 2.717018ms
+2015-01-29 12:05:13.810 CreditCalc[18749:1712440] Resetting plugins due to page load.
+2015-01-29 12:05:13.948 CreditCalc[18749:1712440] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/812C9A60-2EE3-46F1-82DA-64B0760C54A0/CreditCalc.app/www/index.html
+2015-01-29 12:05:14.014 CreditCalc[18749:1712440] This device is ready to start!
+2015-01-29 12:05:18.914 CreditCalc[18749:1712440] Button has been pushed
+2015-01-29 12:05:18.920 CreditCalc[18749:1712440] Text is: <!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/foundation.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="off-canvas-wrap" data-offcanvas>
+          <div class="inner-wrap">
+            <nav class="tab-bar">
+              <section class="left-small">
+                <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+              </section>
+
+              <section class="middle tab-bar-section">
+                <h1 class="title">Expo US Pavillion</h1>
+              </section>
+            </nav>
+
+            <aside class="left-off-canvas-menu">
+              <ul class="off-canvas-list">
+                <li><label  style="height:100px">Foundation</label></li>
+                <li><a href="#">Summary</a></li>
+                <li><a href="#">This</a></li>
+                <li><a href="#">That</a></li>
+                <li><a href="#">Some Info</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">...</a></li>
+              </ul>
+            </aside>
+
+            <section class="main-section"  style="height:400px">
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <button id="saveButton" href="#" class="button expand" onclick="myFunction()">Save Data on Device</button>
+                </div>
+            </section>
+
+          <a class="exit-off-canvas"></a>
+
+          </div>
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/angular.min.js"></script>
+        <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+        <script type="text/javascript" src="js/foundation.min.js"></script>
+        <script type="text/javascript" src="js/foundation/foundation.offcanvas.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script>
+            $(document).foundation();
+        </script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+    </body>
+</html>
+
+
+2015-01-29 12:05:18.921 CreditCalc[18749:1712440] Error in Success callbackId: File1301825557 : TypeError: null is not an object (evaluating 'document.querySelector("#textArea").innerHTML = this.result')
+2015-01-29 13:24:53.285 CreditCalc[19416:1786700] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/DB84C576-DC24-4169-A96E-E9D21A00A1B5/Library/Cookies/Cookies.binarycookies
+2015-01-29 13:24:53.431 CreditCalc[19416:1786700] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 13:24:53.432 CreditCalc[19416:1786700] Multi-tasking -> Device: YES, App: YES
+2015-01-29 13:24:53.434 CreditCalc[19416:1786700] Unlimited access to network resources
+2015-01-29 13:24:53.437 CreditCalc[19416:1786700] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 13:24:53.698 CreditCalc[19416:1786700] [CDVTimer][file] 3.269017ms
+2015-01-29 13:24:53.698 CreditCalc[19416:1786700] [CDVTimer][TotalPluginStartup] 3.557980ms
+2015-01-29 13:24:53.778 CreditCalc[19416:1786700] Resetting plugins due to page load.
+2015-01-29 13:24:53.913 CreditCalc[19416:1786700] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/99E1761C-13DB-4A47-912D-A7011154775D/CreditCalc.app/www/index.html
+2015-01-29 13:24:53.987 CreditCalc[19416:1786700] This device is ready to start!
+2015-01-29 13:25:00.990 CreditCalc[19416:1786700] Button has been pushed
+2015-01-29 13:25:00.997 CreditCalc[19416:1786700] Error in Success callbackId: File932842799 : TypeError: undefined is not a function (evaluating 'writer.writer("Here is some text")')
+2015-01-29 13:25:00.997 CreditCalc[19416:1786700] Text is: <!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/foundation.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="off-canvas-wrap" data-offcanvas>
+          <div class="inner-wrap">
+            <nav class="tab-bar">
+              <section class="left-small">
+                <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+              </section>
+
+              <section class="middle tab-bar-section">
+                <h1 class="title">Expo US Pavillion</h1>
+              </section>
+            </nav>
+
+            <aside class="left-off-canvas-menu">
+              <ul class="off-canvas-list">
+                <li><label  style="height:100px">Foundation</label></li>
+                <li><a href="#">Summary</a></li>
+                <li><a href="#">This</a></li>
+                <li><a href="#">That</a></li>
+                <li><a href="#">Some Info</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">...</a></li>
+              </ul>
+            </aside>
+
+            <section class="main-section"  style="height:400px">
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <button id="saveButton" href="#" class="button expand" onclick="myFunction()">Save Data on Device</button>
+                </div>
+            </section>
+
+          <a class="exit-off-canvas"></a>
+
+          </div>
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/angular.min.js"></script>
+        <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+        <script type="text/javascript" src="js/foundation.min.js"></script>
+        <script type="text/javascript" src="js/foundation/foundation.offcanvas.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script>
+            $(document).foundation();
+        </script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+    </body>
+</html>
+
+
+2015-01-29 13:25:05.250 CreditCalc[19416:1786700] Button has been pushed
+2015-01-29 13:25:05.254 CreditCalc[19416:1786700] Error in Success callbackId: File932842803 : TypeError: undefined is not a function (evaluating 'writer.writer("Here is some text")')
+2015-01-29 13:25:05.254 CreditCalc[19416:1786700] Text is: <!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/foundation.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="off-canvas-wrap" data-offcanvas>
+          <div class="inner-wrap">
+            <nav class="tab-bar">
+              <section class="left-small">
+                <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+              </section>
+
+              <section class="middle tab-bar-section">
+                <h1 class="title">Expo US Pavillion</h1>
+              </section>
+            </nav>
+
+            <aside class="left-off-canvas-menu">
+              <ul class="off-canvas-list">
+                <li><label  style="height:100px">Foundation</label></li>
+                <li><a href="#">Summary</a></li>
+                <li><a href="#">This</a></li>
+                <li><a href="#">That</a></li>
+                <li><a href="#">Some Info</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">...</a></li>
+              </ul>
+            </aside>
+
+            <section class="main-section"  style="height:400px">
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <button id="saveButton" href="#" class="button expand" onclick="myFunction()">Save Data on Device</button>
+                </div>
+            </section>
+
+          <a class="exit-off-canvas"></a>
+
+          </div>
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/angular.min.js"></script>
+        <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+        <script type="text/javascript" src="js/foundation.min.js"></script>
+        <script type="text/javascript" src="js/foundation/foundation.offcanvas.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script>
+            $(document).foundation();
+        </script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+    </body>
+</html>
+
+
+2015-01-29 13:25:12.371 CreditCalc[19416:1786700] Button has been pushed
+2015-01-29 13:25:12.376 CreditCalc[19416:1786700] Error in Success callbackId: File932842807 : TypeError: undefined is not a function (evaluating 'writer.writer("Here is some text")')
+2015-01-29 13:25:12.376 CreditCalc[19416:1786700] Text is: <!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/foundation.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="off-canvas-wrap" data-offcanvas>
+          <div class="inner-wrap">
+            <nav class="tab-bar">
+              <section class="left-small">
+                <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+              </section>
+
+              <section class="middle tab-bar-section">
+                <h1 class="title">Expo US Pavillion</h1>
+              </section>
+            </nav>
+
+            <aside class="left-off-canvas-menu">
+              <ul class="off-canvas-list">
+                <li><label  style="height:100px">Foundation</label></li>
+                <li><a href="#">Summary</a></li>
+                <li><a href="#">This</a></li>
+                <li><a href="#">That</a></li>
+                <li><a href="#">Some Info</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">...</a></li>
+              </ul>
+            </aside>
+
+            <section class="main-section"  style="height:400px">
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <p>Some important topic</p>
+                </div>
+                <div class="panel clearfix">
+                    <button id="saveButton" href="#" class="button expand" onclick="myFunction()">Save Data on Device</button>
+                </div>
+            </section>
+
+          <a class="exit-off-canvas"></a>
+
+          </div>
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/angular.min.js"></script>
+        <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
+        <script type="text/javascript" src="js/foundation.min.js"></script>
+        <script type="text/javascript" src="js/foundation/foundation.offcanvas.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script>
+            $(document).foundation();
+        </script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+    </body>
+</html>
+
+
+2015-01-29 13:33:56.525 CreditCalc[19708:1804090] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/98C426D9-F833-4DA3-B632-2DECA6079CC6/Library/Cookies/Cookies.binarycookies
+2015-01-29 13:33:56.838 CreditCalc[19708:1804090] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 13:33:56.839 CreditCalc[19708:1804090] Multi-tasking -> Device: YES, App: YES
+2015-01-29 13:33:56.842 CreditCalc[19708:1804090] Unlimited access to network resources
+2015-01-29 13:33:56.846 CreditCalc[19708:1804090] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 13:33:57.464 CreditCalc[19708:1804090] [CDVTimer][file] 2.670050ms
+2015-01-29 13:33:57.464 CreditCalc[19708:1804090] [CDVTimer][TotalPluginStartup] 2.868056ms
+2015-01-29 13:33:57.542 CreditCalc[19708:1804090] Resetting plugins due to page load.
+2015-01-29 13:33:57.961 CreditCalc[19708:1804090] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/751639CA-7562-4EAE-89EC-180F22D937E1/CreditCalc.app/www/index.html
+2015-01-29 13:33:58.326 CreditCalc[19708:1804090] THREAD WARNING: ['File'] took '194.282959' ms. Plugin should use a background thread.
+2015-01-29 13:33:58.466 CreditCalc[19708:1804090] THREAD WARNING: ['File'] took '136.264160' ms. Plugin should use a background thread.
+2015-01-29 13:33:58.466 CreditCalc[19708:1804090] This device is ready to start!
+2015-01-29 13:33:58.467 CreditCalc[19708:1804090] Started to copy the file
+2015-01-29 13:33:58.468 CreditCalc[19708:1804090] persistent
+2015-01-29 13:34:37.787 CreditCalc[19959:1806750] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/35F5A2F5-5A30-47FE-8F1E-E95727DB4387/Library/Cookies/Cookies.binarycookies
+2015-01-29 13:34:38.059 CreditCalc[19959:1806750] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 13:34:38.060 CreditCalc[19959:1806750] Multi-tasking -> Device: YES, App: YES
+2015-01-29 13:34:38.062 CreditCalc[19959:1806750] Unlimited access to network resources
+2015-01-29 13:34:38.066 CreditCalc[19959:1806750] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 13:34:38.323 CreditCalc[19959:1806750] [CDVTimer][file] 2.601981ms
+2015-01-29 13:34:38.323 CreditCalc[19959:1806750] [CDVTimer][TotalPluginStartup] 2.817988ms
+2015-01-29 13:34:38.398 CreditCalc[19959:1806750] Resetting plugins due to page load.
+2015-01-29 13:34:38.541 CreditCalc[19959:1806750] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/08B989A7-0F09-4C27-B15C-DB462B2A1D79/CreditCalc.app/www/index.html
+2015-01-29 13:34:38.616 CreditCalc[19959:1806750] This device is ready to start!
+2015-01-29 13:34:38.616 CreditCalc[19959:1806750] Started to copy the file
+2015-01-29 13:34:38.624 CreditCalc[19959:1806750] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/35F5A2F5-5A30-47FE-8F1E-E95727DB4387/Documents/"}
+2015-01-29 13:37:05.964 CreditCalc[20183:1812189] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/6FD940E5-0A68-46E1-94D5-D24FAFF43B1B/Library/Cookies/Cookies.binarycookies
+2015-01-29 13:37:06.119 CreditCalc[20183:1812189] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 13:37:06.119 CreditCalc[20183:1812189] Multi-tasking -> Device: YES, App: YES
+2015-01-29 13:37:06.122 CreditCalc[20183:1812189] Unlimited access to network resources
+2015-01-29 13:37:06.126 CreditCalc[20183:1812189] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 13:37:06.398 CreditCalc[20183:1812189] [CDVTimer][file] 2.712011ms
+2015-01-29 13:37:06.398 CreditCalc[20183:1812189] [CDVTimer][TotalPluginStartup] 2.907991ms
+2015-01-29 13:37:06.473 CreditCalc[20183:1812189] Resetting plugins due to page load.
+2015-01-29 13:37:06.609 CreditCalc[20183:1812189] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/D46751CF-6BB4-4985-AB11-D3B6A4DC94E9/CreditCalc.app/www/index.html
+2015-01-29 13:37:06.671 CreditCalc[20183:1812189] This device is ready to start!
+2015-01-29 13:37:06.671 CreditCalc[20183:1812189] Started to copy the file
+2015-01-29 13:37:06.674 CreditCalc[20183:1812189] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/6FD940E5-0A68-46E1-94D5-D24FAFF43B1B/Documents/"}
+2015-01-29 13:37:06.686 CreditCalc[20183:1812189] THREAD WARNING: ['File'] took '12.049316' ms. Plugin should use a background thread.
+2015-01-29 13:37:06.687 CreditCalc[20183:1812189] Creation Successfully
+2015-01-29 13:39:08.677 CreditCalc[20414:1820311] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/09AFAC39-2D72-4C00-AD96-ADF4B3DDBAF3/Library/Cookies/Cookies.binarycookies
+2015-01-29 13:39:08.826 CreditCalc[20414:1820311] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 13:39:08.827 CreditCalc[20414:1820311] Multi-tasking -> Device: YES, App: YES
+2015-01-29 13:39:08.830 CreditCalc[20414:1820311] Unlimited access to network resources
+2015-01-29 13:39:08.833 CreditCalc[20414:1820311] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 13:39:09.098 CreditCalc[20414:1820311] [CDVTimer][file] 2.691031ms
+2015-01-29 13:39:09.098 CreditCalc[20414:1820311] [CDVTimer][TotalPluginStartup] 2.885997ms
+2015-01-29 13:39:09.174 CreditCalc[20414:1820311] Resetting plugins due to page load.
+2015-01-29 13:39:09.310 CreditCalc[20414:1820311] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/8468F948-FC56-4C64-B6AF-820F0C245ADB/CreditCalc.app/www/index.html
+2015-01-29 13:39:09.378 CreditCalc[20414:1820311] This device is ready to start!
+2015-01-29 13:39:09.378 CreditCalc[20414:1820311] Started to copy the file
+2015-01-29 13:39:09.380 CreditCalc[20414:1820311] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/09AFAC39-2D72-4C00-AD96-ADF4B3DDBAF3/Documents/"}
+2015-01-29 13:39:09.380 CreditCalc[20414:1820311] /newFile.txt
+2015-01-29 14:01:02.794 CreditCalc[20726:1865288] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/5CDBCFF1-1209-4F3D-9E94-86BCE29D246D/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:01:03.015 CreditCalc[20726:1865288] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:01:03.016 CreditCalc[20726:1865288] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:01:03.018 CreditCalc[20726:1865288] Unlimited access to network resources
+2015-01-29 14:01:03.042 CreditCalc[20726:1865288] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:01:03.520 CreditCalc[20726:1865288] [CDVTimer][file] 108.689010ms
+2015-01-29 14:01:03.520 CreditCalc[20726:1865288] [CDVTimer][TotalPluginStartup] 108.924031ms
+2015-01-29 14:01:04.126 CreditCalc[20726:1865288] Resetting plugins due to page load.
+2015-01-29 14:01:04.411 CreditCalc[20726:1865288] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/F378F003-3E52-45E3-9379-1661481AC8B0/CreditCalc.app/www/index.html
+2015-01-29 14:01:04.470 CreditCalc[20726:1865288] This device is ready to start!
+2015-01-29 14:01:04.470 CreditCalc[20726:1865288] Started to copy the file
+2015-01-29 14:01:04.472 CreditCalc[20726:1865288] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/5CDBCFF1-1209-4F3D-9E94-86BCE29D246D/Documents/"}
+2015-01-29 14:01:04.473 CreditCalc[20726:1865288] /newFile.txt
+2015-01-29 14:01:04.484 CreditCalc[20726:1865288] THREAD WARNING: ['File'] took '10.886963' ms. Plugin should use a background thread.
+2015-01-29 14:05:06.994 CreditCalc[20969:1875340] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/CDC64E83-11F3-47A2-9897-8B58CBC5CC2B/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:05:07.177 CreditCalc[20969:1875340] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:05:07.178 CreditCalc[20969:1875340] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:05:07.180 CreditCalc[20969:1875340] Unlimited access to network resources
+2015-01-29 14:05:07.191 CreditCalc[20969:1875340] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:05:07.519 CreditCalc[20969:1875340] [CDVTimer][file] 40.418983ms
+2015-01-29 14:05:07.519 CreditCalc[20969:1875340] [CDVTimer][TotalPluginStartup] 40.720999ms
+2015-01-29 14:05:07.922 CreditCalc[20969:1875340] Resetting plugins due to page load.
+2015-01-29 14:05:08.241 CreditCalc[20969:1875340] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/EC6E7CF9-BDCE-400A-912E-B8B8D113E62F/CreditCalc.app/www/index.html
+2015-01-29 14:05:08.336 CreditCalc[20969:1875340] This device is ready to start!
+2015-01-29 14:05:08.337 CreditCalc[20969:1875340] Started to copy the file
+2015-01-29 14:05:08.339 CreditCalc[20969:1875340] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/CDC64E83-11F3-47A2-9897-8B58CBC5CC2B/Documents/"}
+2015-01-29 14:05:08.340 CreditCalc[20969:1875340] /newFile.txt
+2015-01-29 14:05:24.283 CreditCalc[20969:1875340] THREAD WARNING: ['Notification'] took '305.846924' ms. Plugin should use a background thread.
+2015-01-29 14:06:27.573 CreditCalc[21185:1880634] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/110FD4A7-584B-4ADC-887F-9E627C28E586/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:06:27.742 CreditCalc[21185:1880634] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:06:27.743 CreditCalc[21185:1880634] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:06:27.745 CreditCalc[21185:1880634] Unlimited access to network resources
+2015-01-29 14:06:27.755 CreditCalc[21185:1880634] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:06:28.052 CreditCalc[21185:1880634] [CDVTimer][file] 24.149001ms
+2015-01-29 14:06:28.052 CreditCalc[21185:1880634] [CDVTimer][TotalPluginStartup] 24.385035ms
+2015-01-29 14:06:28.428 CreditCalc[21185:1880634] Resetting plugins due to page load.
+2015-01-29 14:06:28.621 CreditCalc[21185:1880634] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/A8F55C5B-449B-4CF2-A426-56437BF93239/CreditCalc.app/www/index.html
+2015-01-29 14:06:28.675 CreditCalc[21185:1880634] This device is ready to start!
+2015-01-29 14:06:28.675 CreditCalc[21185:1880634] Started to copy the file
+2015-01-29 14:06:28.677 CreditCalc[21185:1880634] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/110FD4A7-584B-4ADC-887F-9E627C28E586/Documents/"}
+2015-01-29 14:06:28.678 CreditCalc[21185:1880634] /newFile.txt
+2015-01-29 14:07:26.066 CreditCalc[21185:1880634] THREAD WARNING: ['Notification'] took '160.486816' ms. Plugin should use a background thread.
+2015-01-29 14:25:48.074 CreditCalc[21486:1920898] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/0C79E3CD-0F6F-47D1-B275-C9A105C57716/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:25:48.392 CreditCalc[21486:1920898] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:25:48.392 CreditCalc[21486:1920898] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:25:48.394 CreditCalc[21486:1920898] Unlimited access to network resources
+2015-01-29 14:25:48.405 CreditCalc[21486:1920898] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:25:48.741 CreditCalc[21486:1920898] [CDVTimer][file] 54.024041ms
+2015-01-29 14:25:48.742 CreditCalc[21486:1920898] [CDVTimer][TotalPluginStartup] 54.247975ms
+2015-01-29 14:25:49.149 CreditCalc[21486:1920898] Resetting plugins due to page load.
+2015-01-29 14:25:49.387 CreditCalc[21486:1920898] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/8465733D-B1F8-474E-8F25-C43C6E0F680A/CreditCalc.app/www/index.html
+2015-01-29 14:25:49.448 CreditCalc[21486:1920898] This device is ready to start!
+2015-01-29 14:25:49.448 CreditCalc[21486:1920898] Started to copy the file
+2015-01-29 14:25:52.086 CreditCalc[21486:1920898] THREAD WARNING: ['Notification'] took '73.625977' ms. Plugin should use a background thread.
+2015-01-29 14:26:56.793 CreditCalc[21716:1925621] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/36E08024-5219-4CDC-9CAE-88239BEB1A39/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:26:56.960 CreditCalc[21716:1925621] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:26:56.961 CreditCalc[21716:1925621] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:26:56.962 CreditCalc[21716:1925621] Unlimited access to network resources
+2015-01-29 14:26:56.974 CreditCalc[21716:1925621] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:26:57.285 CreditCalc[21716:1925621] [CDVTimer][file] 38.241982ms
+2015-01-29 14:26:57.285 CreditCalc[21716:1925621] [CDVTimer][TotalPluginStartup] 38.478017ms
+2015-01-29 14:26:57.646 CreditCalc[21716:1925621] Resetting plugins due to page load.
+2015-01-29 14:26:57.880 CreditCalc[21716:1925621] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/72A09305-6611-4D1C-9A93-8A4BD9F6BE9C/CreditCalc.app/www/index.html
+2015-01-29 14:26:57.954 CreditCalc[21716:1925621] This device is ready to start!
+2015-01-29 14:26:57.954 CreditCalc[21716:1925621] Started to copy the file
+2015-01-29 14:27:04.665 CreditCalc[21716:1925621] THREAD WARNING: ['Notification'] took '60.813965' ms. Plugin should use a background thread.
+2015-01-29 14:27:47.480 CreditCalc[21925:1928501] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3AEAF0DE-E15A-40D7-8AC1-844896133BE5/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:27:47.648 CreditCalc[21925:1928501] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:27:47.648 CreditCalc[21925:1928501] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:27:47.650 CreditCalc[21925:1928501] Unlimited access to network resources
+2015-01-29 14:27:47.662 CreditCalc[21925:1928501] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:27:47.966 CreditCalc[21925:1928501] [CDVTimer][file] 29.030025ms
+2015-01-29 14:27:47.967 CreditCalc[21925:1928501] [CDVTimer][TotalPluginStartup] 29.235005ms
+2015-01-29 14:27:48.317 CreditCalc[21925:1928501] Resetting plugins due to page load.
+2015-01-29 14:27:48.485 CreditCalc[21925:1928501] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/5EC1E80C-9CA9-4C6D-AF71-61D8AAA70123/CreditCalc.app/www/index.html
+2015-01-29 14:27:48.543 CreditCalc[21925:1928501] This device is ready to start!
+2015-01-29 14:27:48.543 CreditCalc[21925:1928501] Started to copy the file
+2015-01-29 14:28:14.492 CreditCalc[21925:1928501] THREAD WARNING: ['Notification'] took '48.283203' ms. Plugin should use a background thread.
+2015-01-29 14:28:16.976 CreditCalc[21925:1928501] Started to save data
+2015-01-29 14:28:16.976 CreditCalc[21925:1928501] 1
+2015-01-29 14:28:36.763 CreditCalc[22134:1932077] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3C8298EE-57BD-4D57-BCBC-D744DAEF6687/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:28:36.921 CreditCalc[22134:1932077] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:28:36.921 CreditCalc[22134:1932077] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:28:36.923 CreditCalc[22134:1932077] Unlimited access to network resources
+2015-01-29 14:28:36.934 CreditCalc[22134:1932077] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:28:37.190 CreditCalc[22134:1932077] [CDVTimer][file] 13.539970ms
+2015-01-29 14:28:37.190 CreditCalc[22134:1932077] [CDVTimer][TotalPluginStartup] 13.749003ms
+2015-01-29 14:28:37.457 CreditCalc[22134:1932077] Resetting plugins due to page load.
+2015-01-29 14:28:37.625 CreditCalc[22134:1932077] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/AFDAB8CC-842B-4A69-9A9E-9B56A43211F2/CreditCalc.app/www/index.html
+2015-01-29 14:28:37.677 CreditCalc[22134:1932077] This device is ready to start!
+2015-01-29 14:28:37.677 CreditCalc[22134:1932077] Started to copy the file
+2015-01-29 14:28:41.889 CreditCalc[22134:1932077] THREAD WARNING: ['Notification'] took '40.661865' ms. Plugin should use a background thread.
+2015-01-29 14:28:43.177 CreditCalc[22134:1932077] Started to save data
+2015-01-29 14:28:43.177 CreditCalc[22134:1932077] 1
+2015-01-29 14:28:43.180 CreditCalc[22134:1932077] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3C8298EE-57BD-4D57-BCBC-D744DAEF6687/Documents/"}
+2015-01-29 14:36:47.286 CreditCalc[22419:1941258] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/A0FC7DC0-6809-4C9A-881F-A01B6EF83134/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:36:47.461 CreditCalc[22419:1941258] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:36:47.462 CreditCalc[22419:1941258] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:36:47.469 CreditCalc[22419:1941258] Unlimited access to network resources
+2015-01-29 14:36:47.480 CreditCalc[22419:1941258] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:36:47.783 CreditCalc[22419:1941258] [CDVTimer][file] 18.505991ms
+2015-01-29 14:36:47.783 CreditCalc[22419:1941258] [CDVTimer][TotalPluginStartup] 18.718004ms
+2015-01-29 14:36:47.954 CreditCalc[22419:1941258] Resetting plugins due to page load.
+2015-01-29 14:36:48.197 CreditCalc[22419:1941258] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/3457CA8A-8F23-408E-A55E-451623976E05/CreditCalc.app/www/index.html
+2015-01-29 14:37:17.853 CreditCalc[22634:1942782] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/80A44263-31F2-4011-AD32-035B7C48787A/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:37:18.001 CreditCalc[22634:1942782] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:37:18.002 CreditCalc[22634:1942782] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:37:18.004 CreditCalc[22634:1942782] Unlimited access to network resources
+2015-01-29 14:37:18.014 CreditCalc[22634:1942782] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:37:18.278 CreditCalc[22634:1942782] [CDVTimer][file] 14.563978ms
+2015-01-29 14:37:18.278 CreditCalc[22634:1942782] [CDVTimer][TotalPluginStartup] 14.819980ms
+2015-01-29 14:37:18.714 CreditCalc[22634:1942782] Resetting plugins due to page load.
+2015-01-29 14:37:18.920 CreditCalc[22634:1942782] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/45118132-B3CA-45BF-ADDF-A662F9C65B48/CreditCalc.app/www/index.html
+2015-01-29 14:37:18.985 CreditCalc[22634:1942782] This device is ready to start!
+2015-01-29 14:38:18.762 CreditCalc[22843:1947401] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/D7CBFFFE-BB7A-48F5-9516-1D179EE693CD/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:38:18.855 CreditCalc[22843:1947401] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:38:18.855 CreditCalc[22843:1947401] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:38:18.857 CreditCalc[22843:1947401] Unlimited access to network resources
+2015-01-29 14:38:18.860 CreditCalc[22843:1947401] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:38:19.097 CreditCalc[22843:1947401] [CDVTimer][file] 2.647042ms
+2015-01-29 14:38:19.097 CreditCalc[22843:1947401] [CDVTimer][TotalPluginStartup] 2.856016ms
+2015-01-29 14:38:19.175 CreditCalc[22843:1947401] Resetting plugins due to page load.
+2015-01-29 14:38:19.326 CreditCalc[22843:1947401] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/ACE7A34A-0A33-49C1-B452-FBB4A47EA6AA/CreditCalc.app/www/index.html
+2015-01-29 14:38:19.394 CreditCalc[22843:1947401] This device is ready to start!
+2015-01-29 14:39:16.019 CreditCalc[23052:1950795] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/7C11646C-F9D9-477F-87B8-33D9ED80BFC4/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:39:16.165 CreditCalc[23052:1950795] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:39:16.166 CreditCalc[23052:1950795] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:39:16.168 CreditCalc[23052:1950795] Unlimited access to network resources
+2015-01-29 14:39:16.180 CreditCalc[23052:1950795] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:39:16.444 CreditCalc[23052:1950795] [CDVTimer][file] 12.704968ms
+2015-01-29 14:39:16.445 CreditCalc[23052:1950795] [CDVTimer][TotalPluginStartup] 12.932956ms
+2015-01-29 14:39:16.678 CreditCalc[23052:1950795] Resetting plugins due to page load.
+2015-01-29 14:39:16.845 CreditCalc[23052:1950795] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/D0BAE5FD-0DE1-4EB8-B335-294D0B508BCA/CreditCalc.app/www/index.html
+2015-01-29 14:41:01.458 CreditCalc[23307:1956988] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/E3EF80AC-6575-43A8-8C3E-DDD6547F07B9/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:41:01.578 CreditCalc[23307:1956988] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:41:01.579 CreditCalc[23307:1956988] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:41:01.593 CreditCalc[23307:1956988] Unlimited access to network resources
+2015-01-29 14:41:01.602 CreditCalc[23307:1956988] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:41:01.929 CreditCalc[23307:1956988] [CDVTimer][file] 14.046013ms
+2015-01-29 14:41:01.930 CreditCalc[23307:1956988] [CDVTimer][TotalPluginStartup] 14.289975ms
+2015-01-29 14:41:02.057 CreditCalc[23307:1956988] Resetting plugins due to page load.
+2015-01-29 14:41:02.314 CreditCalc[23307:1956988] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/1E0C020A-4F3C-46BB-B124-4796569A4F71/CreditCalc.app/www/index.html
+2015-01-29 14:41:02.371 CreditCalc[23307:1956988] This device is ready to start!
+2015-01-29 14:41:48.789 CreditCalc[23559:1960231] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/51C2D7D7-8E84-4DB4-A3A6-232531BF1EE0/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:41:48.882 CreditCalc[23559:1960231] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:41:48.883 CreditCalc[23559:1960231] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:41:48.900 CreditCalc[23559:1960231] Unlimited access to network resources
+2015-01-29 14:41:48.909 CreditCalc[23559:1960231] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:41:49.496 CreditCalc[23559:1960231] [CDVTimer][file] 13.674974ms
+2015-01-29 14:41:49.496 CreditCalc[23559:1960231] [CDVTimer][TotalPluginStartup] 13.902009ms
+2015-01-29 14:41:49.616 CreditCalc[23559:1960231] Resetting plugins due to page load.
+2015-01-29 14:41:49.841 CreditCalc[23559:1960231] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/7C71119F-D52B-476E-9CE5-4A6AA9EAEEF3/CreditCalc.app/www/index.html
+2015-01-29 14:41:49.905 CreditCalc[23559:1960231] This device is ready to start!
+2015-01-29 14:43:06.118 CreditCalc[23776:1962782] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/EC8268D7-54DF-42E8-8B8A-E9A48418C9EF/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:43:06.228 CreditCalc[23776:1962782] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:43:06.228 CreditCalc[23776:1962782] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:43:06.230 CreditCalc[23776:1962782] Unlimited access to network resources
+2015-01-29 14:43:06.244 CreditCalc[23776:1962782] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:43:06.508 CreditCalc[23776:1962782] [CDVTimer][file] 15.078008ms
+2015-01-29 14:43:06.508 CreditCalc[23776:1962782] [CDVTimer][TotalPluginStartup] 15.307009ms
+2015-01-29 14:43:06.715 CreditCalc[23776:1962782] Resetting plugins due to page load.
+2015-01-29 14:43:06.906 CreditCalc[23776:1962782] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/B2723B4B-790D-43EB-A97A-32264E6E1627/CreditCalc.app/www/index.html
+2015-01-29 14:43:06.952 CreditCalc[23776:1962782] This device is ready to start!
+2015-01-29 14:43:09.758 CreditCalc[23776:1962782] THREAD WARNING: ['Notification'] took '75.087158' ms. Plugin should use a background thread.
+2015-01-29 14:43:39.147 CreditCalc[23981:1964853] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/334F4D19-7415-4BEE-93FD-CF2A8F7A9884/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:43:39.268 CreditCalc[23981:1964853] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:43:39.268 CreditCalc[23981:1964853] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:43:39.270 CreditCalc[23981:1964853] Unlimited access to network resources
+2015-01-29 14:43:39.292 CreditCalc[23981:1964853] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:43:39.548 CreditCalc[23981:1964853] [CDVTimer][file] 10.896027ms
+2015-01-29 14:43:39.548 CreditCalc[23981:1964853] [CDVTimer][TotalPluginStartup] 11.112034ms
+2015-01-29 14:43:39.757 CreditCalc[23981:1964853] Resetting plugins due to page load.
+2015-01-29 14:43:39.917 CreditCalc[23981:1964853] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/0C106396-55E4-44AD-9522-98D912FAF66A/CreditCalc.app/www/index.html
+2015-01-29 14:44:17.140 CreditCalc[24188:1966907] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B94FB618-0D50-478E-8D03-0B074553403C/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:44:17.236 CreditCalc[24188:1966907] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:44:17.236 CreditCalc[24188:1966907] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:44:17.238 CreditCalc[24188:1966907] Unlimited access to network resources
+2015-01-29 14:44:17.241 CreditCalc[24188:1966907] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:44:17.479 CreditCalc[24188:1966907] [CDVTimer][file] 2.662003ms
+2015-01-29 14:44:17.479 CreditCalc[24188:1966907] [CDVTimer][TotalPluginStartup] 2.882004ms
+2015-01-29 14:44:17.556 CreditCalc[24188:1966907] Resetting plugins due to page load.
+2015-01-29 14:44:17.715 CreditCalc[24188:1966907] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/1377885B-0658-4533-B056-95B205CA39BE/CreditCalc.app/www/index.html
+2015-01-29 14:44:17.791 CreditCalc[24188:1966907] This device is ready to start!
+2015-01-29 14:44:19.783 CreditCalc[24188:1966907] THREAD WARNING: ['Notification'] took '46.495361' ms. Plugin should use a background thread.
+2015-01-29 14:44:20.679 CreditCalc[24188:1966907] User did decision.
+2015-01-29 14:44:20.679 CreditCalc[24188:1966907] Pressed button is :1
+2015-01-29 14:45:00.999 CreditCalc[24434:1970149] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/D159FD32-F4CF-401E-B670-1EB2A7307336/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:45:01.098 CreditCalc[24434:1970149] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:45:01.098 CreditCalc[24434:1970149] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:45:01.107 CreditCalc[24434:1970149] Unlimited access to network resources
+2015-01-29 14:45:01.114 CreditCalc[24434:1970149] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:45:01.383 CreditCalc[24434:1970149] [CDVTimer][file] 7.279992ms
+2015-01-29 14:45:01.383 CreditCalc[24434:1970149] [CDVTimer][TotalPluginStartup] 7.486999ms
+2015-01-29 14:45:01.498 CreditCalc[24434:1970149] Resetting plugins due to page load.
+2015-01-29 14:45:01.760 CreditCalc[24434:1970149] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/1839E866-AE52-4ED9-B5BB-9B55D4CB786B/CreditCalc.app/www/index.html
+2015-01-29 14:45:01.826 CreditCalc[24434:1970149] This device is ready to start!
+2015-01-29 14:45:13.594 CreditCalc[24641:1971152] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/46776BF6-5371-48C7-82A9-525EEB63CA94/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:45:13.709 CreditCalc[24641:1971152] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:45:13.709 CreditCalc[24641:1971152] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:45:13.711 CreditCalc[24641:1971152] Unlimited access to network resources
+2015-01-29 14:45:13.733 CreditCalc[24641:1971152] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:45:13.989 CreditCalc[24641:1971152] [CDVTimer][file] 9.221017ms
+2015-01-29 14:45:13.989 CreditCalc[24641:1971152] [CDVTimer][TotalPluginStartup] 9.438992ms
+2015-01-29 14:45:14.185 CreditCalc[24641:1971152] Resetting plugins due to page load.
+2015-01-29 14:45:14.341 CreditCalc[24641:1971152] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/CAB9D5AB-2904-4F04-8EDF-90A652EB5296/CreditCalc.app/www/index.html
+2015-01-29 14:45:14.404 CreditCalc[24641:1971152] This device is ready to start!
+2015-01-29 14:45:18.121 CreditCalc[24641:1971152] THREAD WARNING: ['Notification'] took '42.240723' ms. Plugin should use a background thread.
+2015-01-29 14:45:22.329 CreditCalc[24641:1971152] User did decision.
+2015-01-29 14:45:22.329 CreditCalc[24641:1971152] Pressed button is :1
+2015-01-29 14:45:22.329 CreditCalc[24641:1971152] Entered text is :Hello World
+2015-01-29 14:45:41.251 CreditCalc[24847:1972826] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B925755A-C02C-4310-83A0-298FCF729163/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:45:41.358 CreditCalc[24847:1972826] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:45:41.359 CreditCalc[24847:1972826] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:45:41.361 CreditCalc[24847:1972826] Unlimited access to network resources
+2015-01-29 14:45:41.371 CreditCalc[24847:1972826] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:45:41.626 CreditCalc[24847:1972826] [CDVTimer][file] 7.330000ms
+2015-01-29 14:45:41.626 CreditCalc[24847:1972826] [CDVTimer][TotalPluginStartup] 7.538974ms
+2015-01-29 14:45:41.812 CreditCalc[24847:1972826] Resetting plugins due to page load.
+2015-01-29 14:45:41.978 CreditCalc[24847:1972826] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/36D4C418-C322-4E8A-B899-D9EF8B0C854C/CreditCalc.app/www/index.html
+2015-01-29 14:45:42.040 CreditCalc[24847:1972826] This device is ready to start!
+2015-01-29 14:45:44.777 CreditCalc[24847:1972826] THREAD WARNING: ['Notification'] took '45.129883' ms. Plugin should use a background thread.
+2015-01-29 14:45:45.673 CreditCalc[24847:1972826] User did decision.
+2015-01-29 14:45:45.673 CreditCalc[24847:1972826] Pressed button is :1
+2015-01-29 14:45:45.674 CreditCalc[24847:1972826] Entered text is :Hello World
+2015-01-29 14:46:13.872 CreditCalc[25063:1975517] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/FBF838B6-DCAD-4084-A46A-C6F435FFEB48/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:46:13.981 CreditCalc[25063:1975517] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:46:13.981 CreditCalc[25063:1975517] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:46:13.983 CreditCalc[25063:1975517] Unlimited access to network resources
+2015-01-29 14:46:13.995 CreditCalc[25063:1975517] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:46:14.275 CreditCalc[25063:1975517] [CDVTimer][file] 11.858046ms
+2015-01-29 14:46:14.275 CreditCalc[25063:1975517] [CDVTimer][TotalPluginStartup] 12.076974ms
+2015-01-29 14:46:14.469 CreditCalc[25063:1975517] Resetting plugins due to page load.
+2015-01-29 14:46:14.627 CreditCalc[25063:1975517] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/FC6F22B5-53DD-4B4B-9931-246BE7C9F93B/CreditCalc.app/www/index.html
+2015-01-29 14:46:14.686 CreditCalc[25063:1975517] This device is ready to start!
+2015-01-29 14:46:16.663 CreditCalc[25063:1975517] THREAD WARNING: ['Notification'] took '50.239014' ms. Plugin should use a background thread.
+2015-01-29 14:46:17.580 CreditCalc[25063:1975517] User did decision.
+2015-01-29 14:46:17.580 CreditCalc[25063:1975517] Pressed button is :1
+2015-01-29 14:46:17.580 CreditCalc[25063:1975517] Entered text is :Hello World
+2015-01-29 14:46:17.580 CreditCalc[25063:1975517] Start to save data
+2015-01-29 14:46:17.584 CreditCalc[25063:1975517] Filesystem loaded
+2015-01-29 14:46:17.584 CreditCalc[25063:1975517] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/FBF838B6-DCAD-4084-A46A-C6F435FFEB48/Documents/"}
+2015-01-29 14:49:50.815 CreditCalc[25312:1981885] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/4EA153AC-298C-49C9-BBC4-BCB464A248FC/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:49:50.941 CreditCalc[25312:1981885] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:49:50.941 CreditCalc[25312:1981885] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:49:50.943 CreditCalc[25312:1981885] Unlimited access to network resources
+2015-01-29 14:49:50.964 CreditCalc[25312:1981885] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:49:51.268 CreditCalc[25312:1981885] [CDVTimer][file] 40.959001ms
+2015-01-29 14:49:51.269 CreditCalc[25312:1981885] [CDVTimer][TotalPluginStartup] 41.198015ms
+2015-01-29 14:49:51.491 CreditCalc[25312:1981885] Resetting plugins due to page load.
+2015-01-29 14:49:51.671 CreditCalc[25312:1981885] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/08E09603-DDC1-4AAE-8E22-824757C67F84/CreditCalc.app/www/index.html
+2015-01-29 14:49:51.725 CreditCalc[25312:1981885] This device is ready to start!
+2015-01-29 14:49:53.702 CreditCalc[25312:1981885] THREAD WARNING: ['Notification'] took '60.582764' ms. Plugin should use a background thread.
+2015-01-29 14:49:54.528 CreditCalc[25312:1981885] User did decision.
+2015-01-29 14:49:54.528 CreditCalc[25312:1981885] Pressed button is :1
+2015-01-29 14:49:54.529 CreditCalc[25312:1981885] Entered text is :Hello World
+2015-01-29 14:49:54.529 CreditCalc[25312:1981885] Start to save data
+2015-01-29 14:49:54.532 CreditCalc[25312:1981885] Filesystem loaded
+2015-01-29 14:49:54.532 CreditCalc[25312:1981885] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/4EA153AC-298C-49C9-BBC4-BCB464A248FC/Documents/"}
+2015-01-29 14:51:33.470 CreditCalc[25575:1986649] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/90731684-88B9-4AA0-8FA9-6BD8EA6D79B0/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:51:33.631 CreditCalc[25575:1986649] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:51:33.631 CreditCalc[25575:1986649] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:51:33.646 CreditCalc[25575:1986649] Unlimited access to network resources
+2015-01-29 14:51:33.655 CreditCalc[25575:1986649] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:51:34.008 CreditCalc[25575:1986649] [CDVTimer][file] 17.636001ms
+2015-01-29 14:51:34.008 CreditCalc[25575:1986649] [CDVTimer][TotalPluginStartup] 17.876983ms
+2015-01-29 14:51:34.141 CreditCalc[25575:1986649] Resetting plugins due to page load.
+2015-01-29 14:51:34.416 CreditCalc[25575:1986649] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/13A25ECF-5257-49A9-B678-B951FC614088/CreditCalc.app/www/index.html
+2015-01-29 14:51:34.497 CreditCalc[25575:1986649] This device is ready to start!
+2015-01-29 14:51:54.758 CreditCalc[25575:1986649] THREAD WARNING: ['Notification'] took '39.392090' ms. Plugin should use a background thread.
+2015-01-29 14:51:55.791 CreditCalc[25575:1986649] User did decision.
+2015-01-29 14:51:55.792 CreditCalc[25575:1986649] Pressed button is :1
+2015-01-29 14:51:55.792 CreditCalc[25575:1986649] Entered text is :Hello World
+2015-01-29 14:51:55.792 CreditCalc[25575:1986649] Start to save data
+2015-01-29 14:51:55.795 CreditCalc[25575:1986649] Filesystem loaded
+2015-01-29 14:51:55.795 CreditCalc[25575:1986649] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/90731684-88B9-4AA0-8FA9-6BD8EA6D79B0/Documents/"}
+2015-01-29 14:51:55.795 CreditCalc[25575:1986649] Create file and write
+2015-01-29 14:52:57.337 CreditCalc[25792:1991677] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/BB7AB5E9-7FF8-4C4A-8E40-96F1DE60C094/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:52:57.477 CreditCalc[25792:1991677] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:52:57.477 CreditCalc[25792:1991677] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:52:57.479 CreditCalc[25792:1991677] Unlimited access to network resources
+2015-01-29 14:52:57.491 CreditCalc[25792:1991677] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:52:57.747 CreditCalc[25792:1991677] [CDVTimer][file] 14.560044ms
+2015-01-29 14:52:57.747 CreditCalc[25792:1991677] [CDVTimer][TotalPluginStartup] 14.771998ms
+2015-01-29 14:52:57.925 CreditCalc[25792:1991677] Resetting plugins due to page load.
+2015-01-29 14:52:58.123 CreditCalc[25792:1991677] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/7AB2D00B-EC74-45B9-BB40-C13247695E4C/CreditCalc.app/www/index.html
+2015-01-29 14:52:58.176 CreditCalc[25792:1991677] This device is ready to start!
+2015-01-29 14:52:59.805 CreditCalc[25792:1991677] THREAD WARNING: ['Notification'] took '42.083984' ms. Plugin should use a background thread.
+2015-01-29 14:53:00.759 CreditCalc[25792:1991677] User did decision.
+2015-01-29 14:53:00.760 CreditCalc[25792:1991677] Pressed button is :1
+2015-01-29 14:53:00.760 CreditCalc[25792:1991677] Entered text is :Hello World
+2015-01-29 14:53:00.760 CreditCalc[25792:1991677] Start to save data
+2015-01-29 14:53:00.763 CreditCalc[25792:1991677] Filesystem loaded
+2015-01-29 14:53:00.764 CreditCalc[25792:1991677] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/BB7AB5E9-7FF8-4C4A-8E40-96F1DE60C094/Documents/"}
+2015-01-29 14:53:00.764 CreditCalc[25792:1991677] Create file and write
+2015-01-29 14:57:53.339 CreditCalc[26033:2003694] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3B224427-2FE3-45D8-949A-9DCD92AA714E/Library/Cookies/Cookies.binarycookies
+2015-01-29 14:57:53.492 CreditCalc[26033:2003694] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 14:57:53.492 CreditCalc[26033:2003694] Multi-tasking -> Device: YES, App: YES
+2015-01-29 14:57:53.494 CreditCalc[26033:2003694] Unlimited access to network resources
+2015-01-29 14:57:53.509 CreditCalc[26033:2003694] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 14:57:53.829 CreditCalc[26033:2003694] [CDVTimer][file] 39.535999ms
+2015-01-29 14:57:53.829 CreditCalc[26033:2003694] [CDVTimer][TotalPluginStartup] 39.775014ms
+2015-01-29 14:57:54.123 CreditCalc[26033:2003694] Resetting plugins due to page load.
+2015-01-29 14:57:54.532 CreditCalc[26033:2003694] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/9FA06788-6ED7-49AA-BE0D-16C9085CB3AD/CreditCalc.app/www/index.html
+2015-01-29 14:57:54.583 CreditCalc[26033:2003694] This device is ready to start!
+2015-01-29 14:57:58.096 CreditCalc[26033:2003694] THREAD WARNING: ['Notification'] took '74.297119' ms. Plugin should use a background thread.
+2015-01-29 14:57:58.904 CreditCalc[26033:2003694] User did decision.
+2015-01-29 14:57:58.905 CreditCalc[26033:2003694] Pressed button is :1
+2015-01-29 14:57:58.905 CreditCalc[26033:2003694] Entered text is :Hello World
+2015-01-29 14:57:58.905 CreditCalc[26033:2003694] Start to save data
+2015-01-29 14:57:58.907 CreditCalc[26033:2003694] Filesystem loaded
+2015-01-29 14:57:58.908 CreditCalc[26033:2003694] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3B224427-2FE3-45D8-949A-9DCD92AA714E/Documents/"}
+2015-01-29 14:57:58.908 CreditCalc[26033:2003694] Create file and write
+2015-01-29 14:57:58.910 CreditCalc[26033:2003694] Create file and write
+2015-01-29 14:58:09.989 CreditCalc[26033:2003694] THREAD WARNING: ['Notification'] took '19.875977' ms. Plugin should use a background thread.
+2015-01-29 14:58:21.483 CreditCalc[26033:2003694] User did decision.
+2015-01-29 14:58:21.483 CreditCalc[26033:2003694] Pressed button is :1
+2015-01-29 14:58:21.483 CreditCalc[26033:2003694] Entered text is :Hello Revant
+2015-01-29 14:58:21.483 CreditCalc[26033:2003694] Start to save data
+2015-01-29 14:58:21.484 CreditCalc[26033:2003694] Filesystem loaded
+2015-01-29 14:58:21.484 CreditCalc[26033:2003694] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3B224427-2FE3-45D8-949A-9DCD92AA714E/Documents/"}
+2015-01-29 14:58:21.484 CreditCalc[26033:2003694] Create file and write
+2015-01-29 14:58:21.486 CreditCalc[26033:2003694] Create file and write
+2015-01-29 15:07:08.999 CreditCalc[26306:2026574] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/E5BF3626-F046-48B9-8937-492588FAA67D/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:07:09.152 CreditCalc[26306:2026574] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:07:09.152 CreditCalc[26306:2026574] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:07:09.154 CreditCalc[26306:2026574] Unlimited access to network resources
+2015-01-29 15:07:09.169 CreditCalc[26306:2026574] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:07:09.489 CreditCalc[26306:2026574] [CDVTimer][file] 43.197989ms
+2015-01-29 15:07:09.489 CreditCalc[26306:2026574] [CDVTimer][TotalPluginStartup] 43.434978ms
+2015-01-29 15:07:09.789 CreditCalc[26306:2026574] Resetting plugins due to page load.
+2015-01-29 15:07:10.007 CreditCalc[26306:2026574] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/7E2E525E-A6AC-466A-914E-9D8877730DBD/CreditCalc.app/www/index.html
+2015-01-29 15:07:10.046 CreditCalc[26306:2026574] This device is ready to start!
+2015-01-29 15:07:13.459 CreditCalc[26306:2026574] Start to load data
+2015-01-29 15:08:27.618 CreditCalc[26520:2029622] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/AE8F0A60-E075-4727-860F-4DF78F1D19A3/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:08:27.744 CreditCalc[26520:2029622] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:08:27.744 CreditCalc[26520:2029622] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:08:27.746 CreditCalc[26520:2029622] Unlimited access to network resources
+2015-01-29 15:08:27.760 CreditCalc[26520:2029622] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:08:28.064 CreditCalc[26520:2029622] [CDVTimer][file] 30.414999ms
+2015-01-29 15:08:28.065 CreditCalc[26520:2029622] [CDVTimer][TotalPluginStartup] 30.638039ms
+2015-01-29 15:08:28.250 CreditCalc[26520:2029622] Resetting plugins due to page load.
+2015-01-29 15:08:28.426 CreditCalc[26520:2029622] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/20F42BF2-9D6E-4F11-AE51-03B5B551479B/CreditCalc.app/www/index.html
+2015-01-29 15:08:28.484 CreditCalc[26520:2029622] This device is ready to start!
+2015-01-29 15:08:31.344 CreditCalc[26520:2029622] Start to load data
+2015-01-29 15:08:31.347 CreditCalc[26520:2029622] Filesystem request successfully
+2015-01-29 15:08:31.348 CreditCalc[26520:2029622] File found
+2015-01-29 15:08:31.349 CreditCalc[26520:2029622] File created
+2015-01-29 15:10:55.060 CreditCalc[26740:2035690] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/EDD7B38C-96FE-4530-A78B-7FA7094CA04A/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:10:55.189 CreditCalc[26740:2035690] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:10:55.190 CreditCalc[26740:2035690] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:10:55.191 CreditCalc[26740:2035690] Unlimited access to network resources
+2015-01-29 15:10:55.204 CreditCalc[26740:2035690] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:10:55.508 CreditCalc[26740:2035690] [CDVTimer][file] 27.862966ms
+2015-01-29 15:10:55.509 CreditCalc[26740:2035690] [CDVTimer][TotalPluginStartup] 28.088033ms
+2015-01-29 15:10:55.792 CreditCalc[26740:2035690] Resetting plugins due to page load.
+2015-01-29 15:10:56.010 CreditCalc[26740:2035690] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/1AC11B67-D12A-4E5D-91A2-D019F2D86A69/CreditCalc.app/www/index.html
+2015-01-29 15:10:56.071 CreditCalc[26740:2035690] This device is ready to start!
+2015-01-29 15:11:03.901 CreditCalc[26740:2035690] Start to load data
+2015-01-29 15:11:03.904 CreditCalc[26740:2035690] Filesystem request successfully
+2015-01-29 15:11:03.905 CreditCalc[26740:2035690] File found
+2015-01-29 15:11:03.906 CreditCalc[26740:2035690] File created
+2015-01-29 15:11:04.437 CreditCalc[26740:2035690] Start to load data
+2015-01-29 15:11:04.439 CreditCalc[26740:2035690] Filesystem request successfully
+2015-01-29 15:11:04.440 CreditCalc[26740:2035690] File found
+2015-01-29 15:11:04.440 CreditCalc[26740:2035690] File created
+2015-01-29 15:13:18.459 CreditCalc[26957:2041531] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/EE96F098-061E-4216-A2BA-EA7F191E6F05/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:13:18.622 CreditCalc[26957:2041531] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:13:18.623 CreditCalc[26957:2041531] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:13:18.625 CreditCalc[26957:2041531] Unlimited access to network resources
+2015-01-29 15:13:18.635 CreditCalc[26957:2041531] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:13:18.956 CreditCalc[26957:2041531] [CDVTimer][file] 36.671996ms
+2015-01-29 15:13:18.956 CreditCalc[26957:2041531] [CDVTimer][TotalPluginStartup] 37.074983ms
+2015-01-29 15:13:19.440 CreditCalc[26957:2041531] Resetting plugins due to page load.
+2015-01-29 15:13:19.616 CreditCalc[26957:2041531] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/AA3C7C46-A690-4E99-BF4C-72B13F60425E/CreditCalc.app/www/index.html
+2015-01-29 15:13:19.669 CreditCalc[26957:2041531] This device is ready to start!
+2015-01-29 15:50:15.022 CreditCalc[26957:2041531] Start to load data
+2015-01-29 15:50:15.034 CreditCalc[26957:2041531] Filesystem request successfully
+2015-01-29 15:50:15.035 CreditCalc[26957:2041531] File found
+2015-01-29 15:50:15.036 CreditCalc[26957:2041531] File created
+2015-01-29 15:50:15.036 CreditCalc[26957:2041531] Reader created
+2015-01-29 15:51:55.752 CreditCalc[27391:2123546] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B9FF0EDF-7265-4DD8-8835-62ED6633FFC4/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:51:55.917 CreditCalc[27391:2123546] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:51:55.917 CreditCalc[27391:2123546] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:51:55.920 CreditCalc[27391:2123546] Unlimited access to network resources
+2015-01-29 15:51:55.931 CreditCalc[27391:2123546] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:51:56.275 CreditCalc[27391:2123546] [CDVTimer][file] 44.591010ms
+2015-01-29 15:51:56.275 CreditCalc[27391:2123546] [CDVTimer][TotalPluginStartup] 44.905007ms
+2015-01-29 15:51:56.665 CreditCalc[27391:2123546] Resetting plugins due to page load.
+2015-01-29 15:51:57.026 CreditCalc[27391:2123546] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/AEF198AC-056B-444D-9DF3-93F5C9B8D41F/CreditCalc.app/www/index.html
+2015-01-29 15:51:57.123 CreditCalc[27391:2123546] This device is ready to start!
+2015-01-29 15:52:02.596 CreditCalc[27391:2123546] Start to load data
+2015-01-29 15:52:02.599 CreditCalc[27391:2123546] Filesystem request successfully
+2015-01-29 15:52:02.601 CreditCalc[27391:2123546] File found
+2015-01-29 15:52:02.602 CreditCalc[27391:2123546] File created
+2015-01-29 15:52:02.602 CreditCalc[27391:2123546] Reader created
+2015-01-29 15:52:41.424 CreditCalc[27605:2126713] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/CB9DE869-B9DC-4C35-A2D2-A354BAA1D920/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:52:41.574 CreditCalc[27605:2126713] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:52:41.575 CreditCalc[27605:2126713] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:52:41.577 CreditCalc[27605:2126713] Unlimited access to network resources
+2015-01-29 15:52:41.590 CreditCalc[27605:2126713] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:52:41.927 CreditCalc[27605:2126713] [CDVTimer][file] 42.948961ms
+2015-01-29 15:52:41.927 CreditCalc[27605:2126713] [CDVTimer][TotalPluginStartup] 43.229997ms
+2015-01-29 15:52:42.160 CreditCalc[27605:2126713] Resetting plugins due to page load.
+2015-01-29 15:52:42.446 CreditCalc[27605:2126713] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/083445C1-C3C6-454B-AB9C-2FEB3439AA74/CreditCalc.app/www/index.html
+2015-01-29 15:52:42.484 CreditCalc[27605:2126713] This device is ready to start!
+2015-01-29 15:52:46.666 CreditCalc[27605:2126713] Start to load data
+2015-01-29 15:52:46.669 CreditCalc[27605:2126713] Filesystem request successfully
+2015-01-29 15:52:46.671 CreditCalc[27605:2126713] File found
+2015-01-29 15:52:46.672 CreditCalc[27605:2126713] File created
+2015-01-29 15:52:46.673 CreditCalc[27605:2126713] Reader created
+2015-01-29 15:53:20.954 CreditCalc[27815:2129584] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B6B9644F-6F96-4F26-B7A6-23EB0B95447B/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:53:21.058 CreditCalc[27815:2129584] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:53:21.059 CreditCalc[27815:2129584] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:53:21.061 CreditCalc[27815:2129584] Unlimited access to network resources
+2015-01-29 15:53:21.074 CreditCalc[27815:2129584] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:53:21.337 CreditCalc[27815:2129584] [CDVTimer][file] 14.473021ms
+2015-01-29 15:53:21.338 CreditCalc[27815:2129584] [CDVTimer][TotalPluginStartup] 14.694989ms
+2015-01-29 15:53:21.522 CreditCalc[27815:2129584] Resetting plugins due to page load.
+2015-01-29 15:53:21.698 CreditCalc[27815:2129584] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/C41FE466-70CA-4FA9-B237-51BC1589137C/CreditCalc.app/www/index.html
+2015-01-29 15:53:21.758 CreditCalc[27815:2129584] This device is ready to start!
+2015-01-29 15:53:28.389 CreditCalc[27815:2129584] Start to load data
+2015-01-29 15:53:28.392 CreditCalc[27815:2129584] Filesystem request successfully
+2015-01-29 15:53:28.393 CreditCalc[27815:2129584] File found
+2015-01-29 15:53:28.394 CreditCalc[27815:2129584] File created
+2015-01-29 15:53:28.394 CreditCalc[27815:2129584] file path is undefined
+2015-01-29 15:53:28.394 CreditCalc[27815:2129584] Reader created
+2015-01-29 15:54:45.748 CreditCalc[28027:2134852] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/79DBDE23-4AE3-482C-910C-DC246F2CC78F/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:54:45.892 CreditCalc[28027:2134852] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:54:45.892 CreditCalc[28027:2134852] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:54:45.894 CreditCalc[28027:2134852] Unlimited access to network resources
+2015-01-29 15:54:45.908 CreditCalc[28027:2134852] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:54:46.211 CreditCalc[28027:2134852] [CDVTimer][file] 30.589998ms
+2015-01-29 15:54:46.211 CreditCalc[28027:2134852] [CDVTimer][TotalPluginStartup] 30.795991ms
+2015-01-29 15:54:46.455 CreditCalc[28027:2134852] Resetting plugins due to page load.
+2015-01-29 15:54:46.699 CreditCalc[28027:2134852] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/109D2800-107C-4412-83A5-96C8EA47BB4B/CreditCalc.app/www/index.html
+2015-01-29 15:54:46.741 CreditCalc[28027:2134852] This device is ready to start!
+2015-01-29 15:54:48.571 CreditCalc[28027:2134852] Start to load data
+2015-01-29 15:54:48.574 CreditCalc[28027:2134852] Filesystem request successfully
+2015-01-29 15:54:48.574 CreditCalc[28027:2134852] /
+2015-01-29 15:54:48.575 CreditCalc[28027:2134852] File found
+2015-01-29 15:54:48.576 CreditCalc[28027:2134852] File created
+2015-01-29 15:54:48.577 CreditCalc[28027:2134852] file path is undefined
+2015-01-29 15:54:48.577 CreditCalc[28027:2134852] Reader created
+2015-01-29 15:55:10.464 CreditCalc[28233:2137123] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/5360A427-45CD-4C0D-9A7E-9D842638F5F8/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:55:10.584 CreditCalc[28233:2137123] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:55:10.585 CreditCalc[28233:2137123] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:55:10.587 CreditCalc[28233:2137123] Unlimited access to network resources
+2015-01-29 15:55:10.599 CreditCalc[28233:2137123] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:55:10.863 CreditCalc[28233:2137123] [CDVTimer][file] 14.302015ms
+2015-01-29 15:55:10.863 CreditCalc[28233:2137123] [CDVTimer][TotalPluginStartup] 14.522970ms
+2015-01-29 15:55:11.023 CreditCalc[28233:2137123] Resetting plugins due to page load.
+2015-01-29 15:55:11.214 CreditCalc[28233:2137123] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/07BE7F24-7C20-4365-B288-F38F0E99EFC6/CreditCalc.app/www/index.html
+2015-01-29 15:55:11.275 CreditCalc[28233:2137123] This device is ready to start!
+2015-01-29 15:55:12.943 CreditCalc[28233:2137123] Start to load data
+2015-01-29 15:55:12.947 CreditCalc[28233:2137123] Filesystem request successfully
+2015-01-29 15:55:12.947 CreditCalc[28233:2137123] /
+2015-01-29 15:55:12.949 CreditCalc[28233:2137123] File found
+2015-01-29 15:55:12.951 CreditCalc[28233:2137123] File created
+2015-01-29 15:55:12.951 CreditCalc[28233:2137123] file path is undefined
+2015-01-29 15:55:12.952 CreditCalc[28233:2137123] Reader created
+2015-01-29 15:56:32.316 CreditCalc[28445:2142515] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/4475EFF9-E936-456C-8B31-1C51FB38C778/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:56:32.455 CreditCalc[28445:2142515] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:56:32.456 CreditCalc[28445:2142515] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:56:32.458 CreditCalc[28445:2142515] Unlimited access to network resources
+2015-01-29 15:56:32.470 CreditCalc[28445:2142515] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:56:32.773 CreditCalc[28445:2142515] [CDVTimer][file] 36.743999ms
+2015-01-29 15:56:32.773 CreditCalc[28445:2142515] [CDVTimer][TotalPluginStartup] 36.963999ms
+2015-01-29 15:56:33.065 CreditCalc[28445:2142515] Resetting plugins due to page load.
+2015-01-29 15:56:33.269 CreditCalc[28445:2142515] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/5EEFA603-B1D6-47B7-92AF-A4AFC99A4F9F/CreditCalc.app/www/index.html
+2015-01-29 15:56:33.323 CreditCalc[28445:2142515] This device is ready to start!
+2015-01-29 15:56:34.424 CreditCalc[28445:2142515] Start to load data
+2015-01-29 15:56:34.427 CreditCalc[28445:2142515] Filesystem request successfully
+2015-01-29 15:56:34.427 CreditCalc[28445:2142515] /
+2015-01-29 15:56:34.429 CreditCalc[28445:2142515] File found
+2015-01-29 15:56:34.430 CreditCalc[28445:2142515] File created
+2015-01-29 15:56:34.430 CreditCalc[28445:2142515] file path is undefined
+2015-01-29 15:56:34.431 CreditCalc[28445:2142515] Reader created
+2015-01-29 15:59:02.848 CreditCalc[28667:2151451] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/D46D45D7-1EF4-461E-B323-8954CF658395/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:59:03.018 CreditCalc[28667:2151451] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:59:03.019 CreditCalc[28667:2151451] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:59:03.021 CreditCalc[28667:2151451] Unlimited access to network resources
+2015-01-29 15:59:03.035 CreditCalc[28667:2151451] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 15:59:03.363 CreditCalc[28667:2151451] [CDVTimer][file] 38.442016ms
+2015-01-29 15:59:03.363 CreditCalc[28667:2151451] [CDVTimer][TotalPluginStartup] 38.683951ms
+2015-01-29 15:59:03.644 CreditCalc[28667:2151451] Resetting plugins due to page load.
+2015-01-29 15:59:04.072 CreditCalc[28667:2151451] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/70C6CE51-5F1E-439F-95AC-7773D494DAA4/CreditCalc.app/www/index.html
+2015-01-29 15:59:04.123 CreditCalc[28667:2151451] This device is ready to start!
+2015-01-29 15:59:06.813 CreditCalc[28667:2151451] Start to load data
+2015-01-29 15:59:06.816 CreditCalc[28667:2151451] Filesystem request successfully
+2015-01-29 15:59:06.816 CreditCalc[28667:2151451] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/D46D45D7-1EF4-461E-B323-8954CF658395/Documents/"}
+2015-01-29 15:59:06.817 CreditCalc[28667:2151451] File found
+2015-01-29 15:59:06.818 CreditCalc[28667:2151451] File created
+2015-01-29 15:59:06.818 CreditCalc[28667:2151451] file path is undefined
+2015-01-29 15:59:06.818 CreditCalc[28667:2151451] Reader created
+2015-01-29 15:59:59.669 CreditCalc[28884:2156223] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3AF5B6DB-A0BD-46FC-9D14-A39BDAFAD02B/Library/Cookies/Cookies.binarycookies
+2015-01-29 15:59:59.779 CreditCalc[28884:2156223] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 15:59:59.779 CreditCalc[28884:2156223] Multi-tasking -> Device: YES, App: YES
+2015-01-29 15:59:59.781 CreditCalc[28884:2156223] Unlimited access to network resources
+2015-01-29 15:59:59.792 CreditCalc[28884:2156223] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:00:00.047 CreditCalc[28884:2156223] [CDVTimer][file] 7.798016ms
+2015-01-29 16:00:00.047 CreditCalc[28884:2156223] [CDVTimer][TotalPluginStartup] 8.018017ms
+2015-01-29 16:00:00.212 CreditCalc[28884:2156223] Resetting plugins due to page load.
+2015-01-29 16:00:00.383 CreditCalc[28884:2156223] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/56A66B89-389B-4CE5-81EE-45AF1084DA8F/CreditCalc.app/www/index.html
+2015-01-29 16:00:00.448 CreditCalc[28884:2156223] This device is ready to start!
+2015-01-29 16:00:01.960 CreditCalc[28884:2156223] Start to load data
+2015-01-29 16:00:01.963 CreditCalc[28884:2156223] Filesystem request successfully
+2015-01-29 16:00:01.963 CreditCalc[28884:2156223] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3AF5B6DB-A0BD-46FC-9D14-A39BDAFAD02B/Documents/
+2015-01-29 16:00:01.964 CreditCalc[28884:2156223] File found
+2015-01-29 16:00:01.965 CreditCalc[28884:2156223] File created
+2015-01-29 16:00:01.966 CreditCalc[28884:2156223] file path is undefined
+2015-01-29 16:00:01.966 CreditCalc[28884:2156223] Reader created
+2015-01-29 16:00:32.502 CreditCalc[29092:2159070] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/DE1E1C2D-1E48-46F4-B8DD-66CD2631151D/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:00:32.608 CreditCalc[29092:2159070] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:00:32.609 CreditCalc[29092:2159070] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:00:32.611 CreditCalc[29092:2159070] Unlimited access to network resources
+2015-01-29 16:00:32.631 CreditCalc[29092:2159070] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:00:32.912 CreditCalc[29092:2159070] [CDVTimer][file] 9.699047ms
+2015-01-29 16:00:32.912 CreditCalc[29092:2159070] [CDVTimer][TotalPluginStartup] 9.908974ms
+2015-01-29 16:00:33.078 CreditCalc[29092:2159070] Resetting plugins due to page load.
+2015-01-29 16:00:33.247 CreditCalc[29092:2159070] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/15143C9E-0AE9-49F7-B6E7-EEBB74699C14/CreditCalc.app/www/index.html
+2015-01-29 16:00:33.314 CreditCalc[29092:2159070] This device is ready to start!
+2015-01-29 16:01:59.850 CreditCalc[29092:2159070] Start to load data
+2015-01-29 16:01:59.852 CreditCalc[29092:2159070] Filesystem request successfully
+2015-01-29 16:01:59.853 CreditCalc[29092:2159070] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/DE1E1C2D-1E48-46F4-B8DD-66CD2631151D/Documents/
+2015-01-29 16:01:59.854 CreditCalc[29092:2159070] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/DE1E1C2D-1E48-46F4-B8DD-66CD2631151D/Documents/test.txt"}
+2015-01-29 16:01:59.855 CreditCalc[29092:2159070] File created
+2015-01-29 16:01:59.855 CreditCalc[29092:2159070] file path is undefined
+2015-01-29 16:01:59.856 CreditCalc[29092:2159070] Reader created
+2015-01-29 16:03:52.645 CreditCalc[29316:2165691] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B80A45B2-453D-44F5-A029-EBB1425F5B2B/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:03:52.778 CreditCalc[29316:2165691] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:03:52.778 CreditCalc[29316:2165691] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:03:52.780 CreditCalc[29316:2165691] Unlimited access to network resources
+2015-01-29 16:03:52.794 CreditCalc[29316:2165691] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:03:53.107 CreditCalc[29316:2165691] [CDVTimer][file] 28.760970ms
+2015-01-29 16:03:53.107 CreditCalc[29316:2165691] [CDVTimer][TotalPluginStartup] 28.999031ms
+2015-01-29 16:03:53.313 CreditCalc[29316:2165691] Resetting plugins due to page load.
+2015-01-29 16:03:53.493 CreditCalc[29316:2165691] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/7D7B8899-658F-4D2F-9FDD-C614FA7B03AD/CreditCalc.app/www/index.html
+2015-01-29 16:03:53.551 CreditCalc[29316:2165691] This device is ready to start!
+2015-01-29 16:03:57.286 CreditCalc[29316:2165691] Start to load data
+2015-01-29 16:03:57.289 CreditCalc[29316:2165691] Filesystem request successfully
+2015-01-29 16:03:57.289 CreditCalc[29316:2165691] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B80A45B2-453D-44F5-A029-EBB1425F5B2B/Documents/
+2015-01-29 16:03:57.290 CreditCalc[29316:2165691] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B80A45B2-453D-44F5-A029-EBB1425F5B2B/Documents/test.txt"}
+2015-01-29 16:03:57.292 CreditCalc[29316:2165691] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:07:14.048 CreditCalc[29539:2177871] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/D483734E-6C7D-469F-B344-9F4DCD809BDE/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:07:14.190 CreditCalc[29539:2177871] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:07:14.191 CreditCalc[29539:2177871] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:07:14.193 CreditCalc[29539:2177871] Unlimited access to network resources
+2015-01-29 16:07:14.205 CreditCalc[29539:2177871] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:07:14.749 CreditCalc[29539:2177871] [CDVTimer][file] 44.572949ms
+2015-01-29 16:07:14.749 CreditCalc[29539:2177871] [CDVTimer][TotalPluginStartup] 44.818997ms
+2015-01-29 16:07:15.009 CreditCalc[29539:2177871] Resetting plugins due to page load.
+2015-01-29 16:07:15.272 CreditCalc[29539:2177871] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/AC8B8888-98E9-4D11-9EF3-50EB4B7B0662/CreditCalc.app/www/index.html
+2015-01-29 16:07:15.314 CreditCalc[29539:2177871] This device is ready to start!
+2015-01-29 16:07:17.142 CreditCalc[29539:2177871] Start to load data
+2015-01-29 16:07:17.145 CreditCalc[29539:2177871] Filesystem request successfully
+2015-01-29 16:07:17.145 CreditCalc[29539:2177871] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/D483734E-6C7D-469F-B344-9F4DCD809BDE/Documents/
+2015-01-29 16:07:17.147 CreditCalc[29539:2177871] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/D483734E-6C7D-469F-B344-9F4DCD809BDE/Documents/test.txt"}
+2015-01-29 16:07:17.148 CreditCalc[29539:2177871] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:11:15.872 CreditCalc[29767:2188752] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/F9F0C6D0-230F-46A3-9FC0-0C8676875A10/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:11:15.977 CreditCalc[29767:2188752] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:11:15.977 CreditCalc[29767:2188752] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:11:15.979 CreditCalc[29767:2188752] Unlimited access to network resources
+2015-01-29 16:11:16.015 CreditCalc[29767:2188752] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:11:16.279 CreditCalc[29767:2188752] [CDVTimer][file] 7.516980ms
+2015-01-29 16:11:16.279 CreditCalc[29767:2188752] [CDVTimer][TotalPluginStartup] 7.725000ms
+2015-01-29 16:11:16.436 CreditCalc[29767:2188752] Resetting plugins due to page load.
+2015-01-29 16:11:16.615 CreditCalc[29767:2188752] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/C6ABA7E8-44FF-4484-8DC1-4A59A3F0F726/CreditCalc.app/www/index.html
+2015-01-29 16:11:16.686 CreditCalc[29767:2188752] This device is ready to start!
+2015-01-29 16:11:24.770 CreditCalc[29767:2188752] Start to load data
+2015-01-29 16:11:24.773 CreditCalc[29767:2188752] Filesystem request successfully
+2015-01-29 16:11:24.773 CreditCalc[29767:2188752] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/F9F0C6D0-230F-46A3-9FC0-0C8676875A10/Documents/
+2015-01-29 16:11:24.774 CreditCalc[29767:2188752] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/F9F0C6D0-230F-46A3-9FC0-0C8676875A10/Documents/test.txt"}
+2015-01-29 16:11:24.775 CreditCalc[29767:2188752] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:12:40.057 CreditCalc[29978:2195287] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/12BAEA14-21F4-4172-890D-073DF257C725/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:12:40.174 CreditCalc[29978:2195287] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:12:40.175 CreditCalc[29978:2195287] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:12:40.176 CreditCalc[29978:2195287] Unlimited access to network resources
+2015-01-29 16:12:40.192 CreditCalc[29978:2195287] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:12:40.520 CreditCalc[29978:2195287] [CDVTimer][file] 46.133995ms
+2015-01-29 16:12:40.520 CreditCalc[29978:2195287] [CDVTimer][TotalPluginStartup] 46.346009ms
+2015-01-29 16:12:40.861 CreditCalc[29978:2195287] Resetting plugins due to page load.
+2015-01-29 16:12:41.098 CreditCalc[29978:2195287] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/809704CE-3089-44CE-AEE4-D2F5F3BFAE45/CreditCalc.app/www/index.html
+2015-01-29 16:12:41.154 CreditCalc[29978:2195287] This device is ready to start!
+2015-01-29 16:12:43.803 CreditCalc[29978:2195287] Start to load data
+2015-01-29 16:12:43.806 CreditCalc[29978:2195287] Filesystem request successfully
+2015-01-29 16:12:43.806 CreditCalc[29978:2195287] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/12BAEA14-21F4-4172-890D-073DF257C725/Documents/
+2015-01-29 16:12:43.807 CreditCalc[29978:2195287] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/12BAEA14-21F4-4172-890D-073DF257C725/Documents/test.txt"}
+2015-01-29 16:12:43.808 CreditCalc[29978:2195287] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:13:45.114 CreditCalc[30186:2199760] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/FF1B9D50-7E92-44BC-BCEB-0C037902B9BF/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:13:45.236 CreditCalc[30186:2199760] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:13:45.236 CreditCalc[30186:2199760] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:13:45.239 CreditCalc[30186:2199760] Unlimited access to network resources
+2015-01-29 16:13:45.256 CreditCalc[30186:2199760] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:13:45.537 CreditCalc[30186:2199760] [CDVTimer][file] 29.981017ms
+2015-01-29 16:13:45.537 CreditCalc[30186:2199760] [CDVTimer][TotalPluginStartup] 30.209005ms
+2015-01-29 16:13:45.694 CreditCalc[30186:2199760] Resetting plugins due to page load.
+2015-01-29 16:13:45.864 CreditCalc[30186:2199760] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/0DCDD31E-6AA4-47EC-BE87-A050FADE6642/CreditCalc.app/www/index.html
+2015-01-29 16:13:45.930 CreditCalc[30186:2199760] This device is ready to start!
+2015-01-29 16:13:47.482 CreditCalc[30186:2199760] Start to load data
+2015-01-29 16:13:47.485 CreditCalc[30186:2199760] Filesystem request successfully
+2015-01-29 16:13:47.485 CreditCalc[30186:2199760] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/FF1B9D50-7E92-44BC-BCEB-0C037902B9BF/Documents/
+2015-01-29 16:13:47.486 CreditCalc[30186:2199760] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/FF1B9D50-7E92-44BC-BCEB-0C037902B9BF/Documents/test.txt"}
+2015-01-29 16:13:47.488 CreditCalc[30186:2199760] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:13:47.488 CreditCalc[30186:2199760] o  nloadend
+2015-01-29 16:14:17.566 CreditCalc[30394:2202814] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/929D9D4F-38C8-4A0C-B23A-B633A6F5782D/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:14:17.725 CreditCalc[30394:2202814] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:14:17.725 CreditCalc[30394:2202814] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:14:17.728 CreditCalc[30394:2202814] Unlimited access to network resources
+2015-01-29 16:14:17.739 CreditCalc[30394:2202814] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:14:18.011 CreditCalc[30394:2202814] [CDVTimer][file] 14.546990ms
+2015-01-29 16:14:18.011 CreditCalc[30394:2202814] [CDVTimer][TotalPluginStartup] 14.780998ms
+2015-01-29 16:14:18.201 CreditCalc[30394:2202814] Resetting plugins due to page load.
+2015-01-29 16:14:18.396 CreditCalc[30394:2202814] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/D50B9B29-5A0F-447B-B547-154C647C28EB/CreditCalc.app/www/index.html
+2015-01-29 16:14:18.452 CreditCalc[30394:2202814] This device is ready to start!
+2015-01-29 16:14:21.197 CreditCalc[30394:2202814] Start to load data
+2015-01-29 16:14:21.199 CreditCalc[30394:2202814] Filesystem request successfully
+2015-01-29 16:14:21.200 CreditCalc[30394:2202814] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/929D9D4F-38C8-4A0C-B23A-B633A6F5782D/Documents/
+2015-01-29 16:14:21.201 CreditCalc[30394:2202814] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/929D9D4F-38C8-4A0C-B23A-B633A6F5782D/Documents/test.txt"}
+2015-01-29 16:14:21.202 CreditCalc[30394:2202814] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:14:21.202 CreditCalc[30394:2202814] onloadend
+2015-01-29 16:14:48.202 CreditCalc[30599:2205643] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/BDEDB302-1F81-490C-8657-F85C01498BFD/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:14:48.349 CreditCalc[30599:2205643] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:14:48.349 CreditCalc[30599:2205643] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:14:48.352 CreditCalc[30599:2205643] Unlimited access to network resources
+2015-01-29 16:14:48.356 CreditCalc[30599:2205643] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:14:48.629 CreditCalc[30599:2205643] [CDVTimer][file] 2.730012ms
+2015-01-29 16:14:48.629 CreditCalc[30599:2205643] [CDVTimer][TotalPluginStartup] 2.939045ms
+2015-01-29 16:14:48.705 CreditCalc[30599:2205643] Resetting plugins due to page load.
+2015-01-29 16:14:48.855 CreditCalc[30599:2205643] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/BDD7C29C-06C9-4A65-920B-8C4B9FEC954D/CreditCalc.app/www/index.html
+2015-01-29 16:14:48.925 CreditCalc[30599:2205643] This device is ready to start!
+2015-01-29 16:14:52.618 CreditCalc[30599:2205643] Start to load data
+2015-01-29 16:14:52.620 CreditCalc[30599:2205643] Filesystem request successfully
+2015-01-29 16:14:52.620 CreditCalc[30599:2205643] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/BDEDB302-1F81-490C-8657-F85C01498BFD/Documents/
+2015-01-29 16:14:52.622 CreditCalc[30599:2205643] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/BDEDB302-1F81-490C-8657-F85C01498BFD/Documents/test.txt"}
+2015-01-29 16:14:52.623 CreditCalc[30599:2205643] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:14:52.623 CreditCalc[30599:2205643] onloadend
+2015-01-29 16:16:17.311 CreditCalc[30813:2211285] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3C1C3222-A090-4396-8C70-1554C2BB7E4D/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:16:17.459 CreditCalc[30813:2211285] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:16:17.459 CreditCalc[30813:2211285] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:16:17.461 CreditCalc[30813:2211285] Unlimited access to network resources
+2015-01-29 16:16:17.466 CreditCalc[30813:2211285] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:16:17.772 CreditCalc[30813:2211285] [CDVTimer][file] 2.840996ms
+2015-01-29 16:16:17.772 CreditCalc[30813:2211285] [CDVTimer][TotalPluginStartup] 3.060997ms
+2015-01-29 16:16:17.856 CreditCalc[30813:2211285] Resetting plugins due to page load.
+2015-01-29 16:16:18.000 CreditCalc[30813:2211285] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/3FD5999A-7A71-42FF-AF55-E2D676753D82/CreditCalc.app/www/index.html
+2015-01-29 16:16:18.065 CreditCalc[30813:2211285] This device is ready to start!
+2015-01-29 16:16:20.157 CreditCalc[30813:2211285] Start to load data
+2015-01-29 16:16:20.161 CreditCalc[30813:2211285] Filesystem request successfully
+2015-01-29 16:16:20.161 CreditCalc[30813:2211285] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3C1C3222-A090-4396-8C70-1554C2BB7E4D/Documents/
+2015-01-29 16:16:20.163 CreditCalc[30813:2211285] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/3C1C3222-A090-4396-8C70-1554C2BB7E4D/Documents/test.txt"}
+2015-01-29 16:16:20.165 CreditCalc[30813:2211285] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:18:15.070 CreditCalc[31027:2215593] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/23B1AB7A-FDD1-4F73-84F9-5F30F666E1B7/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:18:15.189 CreditCalc[31027:2215593] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:18:15.190 CreditCalc[31027:2215593] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:18:15.192 CreditCalc[31027:2215593] Unlimited access to network resources
+2015-01-29 16:18:15.195 CreditCalc[31027:2215593] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:18:15.455 CreditCalc[31027:2215593] [CDVTimer][file] 3.042042ms
+2015-01-29 16:18:15.456 CreditCalc[31027:2215593] [CDVTimer][TotalPluginStartup] 3.257990ms
+2015-01-29 16:18:15.606 CreditCalc[31027:2215593] Resetting plugins due to page load.
+2015-01-29 16:18:15.783 CreditCalc[31027:2215593] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/01B4AB36-9DE9-4667-9D96-05AC429F8488/CreditCalc.app/www/index.html
+2015-01-29 16:18:15.827 CreditCalc[31027:2215593] This device is ready to start!
+2015-01-29 16:18:17.693 CreditCalc[31027:2215593] Start to load data
+2015-01-29 16:18:17.695 CreditCalc[31027:2215593] Filesystem request successfully
+2015-01-29 16:18:17.695 CreditCalc[31027:2215593] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/23B1AB7A-FDD1-4F73-84F9-5F30F666E1B7/Documents/
+2015-01-29 16:18:17.697 CreditCalc[31027:2215593] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/23B1AB7A-FDD1-4F73-84F9-5F30F666E1B7/Documents/test.txt"}
+2015-01-29 16:18:17.698 CreditCalc[31027:2215593] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:18:17.700 CreditCalc[31027:2215593] adasd
+2015-01-29 16:18:41.812 CreditCalc[31232:2217197] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B1461877-C528-4339-9366-FB2661F179EA/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:18:41.921 CreditCalc[31232:2217197] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:18:41.921 CreditCalc[31232:2217197] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:18:41.923 CreditCalc[31232:2217197] Unlimited access to network resources
+2015-01-29 16:18:41.926 CreditCalc[31232:2217197] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:18:42.180 CreditCalc[31232:2217197] [CDVTimer][file] 13.010979ms
+2015-01-29 16:18:42.180 CreditCalc[31232:2217197] [CDVTimer][TotalPluginStartup] 13.229012ms
+2015-01-29 16:18:42.346 CreditCalc[31232:2217197] Resetting plugins due to page load.
+2015-01-29 16:18:42.498 CreditCalc[31232:2217197] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/729C0127-0090-4E09-AD27-D631C7AF0A49/CreditCalc.app/www/index.html
+2015-01-29 16:18:42.564 CreditCalc[31232:2217197] This device is ready to start!
+2015-01-29 16:18:43.466 CreditCalc[31232:2217197] Start to load data
+2015-01-29 16:18:43.469 CreditCalc[31232:2217197] Filesystem request successfully
+2015-01-29 16:18:43.469 CreditCalc[31232:2217197] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B1461877-C528-4339-9366-FB2661F179EA/Documents/
+2015-01-29 16:18:43.470 CreditCalc[31232:2217197] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/B1461877-C528-4339-9366-FB2661F179EA/Documents/test.txt"}
+2015-01-29 16:18:43.472 CreditCalc[31232:2217197] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:18:43.474 CreditCalc[31232:2217197] Error in Success callbackId: File1041160188 : ReferenceError: Can't find variable: alertDismissed
+2015-01-29 16:20:03.909 CreditCalc[31443:2222834] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/E8150910-7FDC-467C-A7F4-6A6E1B7E4637/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:20:04.021 CreditCalc[31443:2222834] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:20:04.022 CreditCalc[31443:2222834] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:20:04.024 CreditCalc[31443:2222834] Unlimited access to network resources
+2015-01-29 16:20:04.045 CreditCalc[31443:2222834] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:20:04.301 CreditCalc[31443:2222834] [CDVTimer][file] 13.472021ms
+2015-01-29 16:20:04.301 CreditCalc[31443:2222834] [CDVTimer][TotalPluginStartup] 13.688028ms
+2015-01-29 16:20:04.881 CreditCalc[31443:2222834] Resetting plugins due to page load.
+2015-01-29 16:20:05.143 CreditCalc[31443:2222834] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/90817A0D-E589-4AA4-8FFF-2B3CB23C8904/CreditCalc.app/www/index.html
+2015-01-29 16:20:05.200 CreditCalc[31443:2222834] This device is ready to start!
+2015-01-29 16:20:06.851 CreditCalc[31443:2222834] Start to load data
+2015-01-29 16:20:06.854 CreditCalc[31443:2222834] Filesystem request successfully
+2015-01-29 16:20:06.854 CreditCalc[31443:2222834] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/E8150910-7FDC-467C-A7F4-6A6E1B7E4637/Documents/
+2015-01-29 16:20:06.855 CreditCalc[31443:2222834] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/E8150910-7FDC-467C-A7F4-6A6E1B7E4637/Documents/test.txt"}
+2015-01-29 16:20:06.857 CreditCalc[31443:2222834] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:20:06.871 CreditCalc[31443:2222834] Hello Revant
+2015-01-29 16:20:48.190 CreditCalc[31650:2224477] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/314C7867-21A7-49E2-A3B6-5427E14D27D5/Library/Cookies/Cookies.binarycookies
+2015-01-29 16:20:48.336 CreditCalc[31650:2224477] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-29 16:20:48.336 CreditCalc[31650:2224477] Multi-tasking -> Device: YES, App: YES
+2015-01-29 16:20:48.339 CreditCalc[31650:2224477] Unlimited access to network resources
+2015-01-29 16:20:48.343 CreditCalc[31650:2224477] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-29 16:20:48.617 CreditCalc[31650:2224477] [CDVTimer][file] 2.927005ms
+2015-01-29 16:20:48.617 CreditCalc[31650:2224477] [CDVTimer][TotalPluginStartup] 3.132999ms
+2015-01-29 16:20:48.693 CreditCalc[31650:2224477] Resetting plugins due to page load.
+2015-01-29 16:20:48.848 CreditCalc[31650:2224477] Finished load of: file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Bundle/Application/95509881-3AC5-4D4B-BD71-31CD4270C495/CreditCalc.app/www/index.html
+2015-01-29 16:20:48.914 CreditCalc[31650:2224477] This device is ready to start!
+2015-01-29 16:20:52.053 CreditCalc[31650:2224477] Start to load data
+2015-01-29 16:20:52.055 CreditCalc[31650:2224477] Filesystem request successfully
+2015-01-29 16:20:52.056 CreditCalc[31650:2224477] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/314C7867-21A7-49E2-A3B6-5427E14D27D5/Documents/
+2015-01-29 16:20:52.057 CreditCalc[31650:2224477] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/314C7867-21A7-49E2-A3B6-5427E14D27D5/Documents/test.txt"}
+2015-01-29 16:20:52.059 CreditCalc[31650:2224477] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422561501000,"lastModifiedDate":1422561501000,"size":12,"start":0,"end":12}
+2015-01-29 16:20:52.060 CreditCalc[31650:2224477] Hello Revant
+2015-01-29 16:20:52.117 CreditCalc[31650:2224477] THREAD WARNING: ['Notification'] took '56.518066' ms. Plugin should use a background thread.
+2015-01-29 16:20:56.478 CreditCalc[31650:2224477] THREAD WARNING: ['Notification'] took '23.270996' ms. Plugin should use a background thread.
+2015-01-29 16:21:27.723 CreditCalc[31650:2224477] User did decision.
+2015-01-29 16:21:27.723 CreditCalc[31650:2224477] Pressed button is :1
+2015-01-29 16:21:27.723 CreditCalc[31650:2224477] Entered text is :Hello Peter
+2015-01-29 16:21:27.724 CreditCalc[31650:2224477] Start to save data
+2015-01-29 16:21:27.725 CreditCalc[31650:2224477] Filesystem loaded
+2015-01-29 16:21:27.725 CreditCalc[31650:2224477] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/314C7867-21A7-49E2-A3B6-5427E14D27D5/Documents/"}
+2015-01-29 16:21:27.725 CreditCalc[31650:2224477] Create file and write
+2015-01-29 16:21:27.727 CreditCalc[31650:2224477] Create file and write
+2015-01-29 16:21:30.319 CreditCalc[31650:2224477] Start to load data
+2015-01-29 16:21:30.333 CreditCalc[31650:2224477] THREAD WARNING: ['File'] took '13.856934' ms. Plugin should use a background thread.
+2015-01-29 16:21:30.333 CreditCalc[31650:2224477] Filesystem request successfully
+2015-01-29 16:21:30.334 CreditCalc[31650:2224477] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/314C7867-21A7-49E2-A3B6-5427E14D27D5/Documents/
+2015-01-29 16:21:30.336 CreditCalc[31650:2224477] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/314C7867-21A7-49E2-A3B6-5427E14D27D5/Documents/test.txt"}
+2015-01-29 16:21:30.336 CreditCalc[31650:2224477] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422566487000,"lastModifiedDate":1422566487000,"size":11,"start":0,"end":11}
+2015-01-29 16:21:30.338 CreditCalc[31650:2224477] Hello Peter
+2015-01-29 16:21:32.453 CreditCalc[31650:2224477] THREAD WARNING: ['Notification'] took '17.705078' ms. Plugin should use a background thread.
+2015-01-29 16:21:40.648 CreditCalc[31650:2224477] User did decision.
+2015-01-29 16:21:40.649 CreditCalc[31650:2224477] Pressed button is :1
+2015-01-29 16:21:40.649 CreditCalc[31650:2224477] Entered text is :TADA
+2015-01-29 16:21:40.649 CreditCalc[31650:2224477] Start to save data
+2015-01-29 16:21:40.650 CreditCalc[31650:2224477] Filesystem loaded
+2015-01-29 16:21:40.650 CreditCalc[31650:2224477] {"isFile":false,"isDirectory":true,"name":"/","fullPath":"/","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/314C7867-21A7-49E2-A3B6-5427E14D27D5/Documents/"}
+2015-01-29 16:21:40.650 CreditCalc[31650:2224477] Create file and write
+2015-01-29 16:21:40.651 CreditCalc[31650:2224477] Create file and write
+2015-01-29 16:21:42.402 CreditCalc[31650:2224477] Start to load data
+2015-01-29 16:21:42.403 CreditCalc[31650:2224477] Filesystem request successfully
+2015-01-29 16:21:42.404 CreditCalc[31650:2224477] file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/314C7867-21A7-49E2-A3B6-5427E14D27D5/Documents/
+2015-01-29 16:21:42.405 CreditCalc[31650:2224477] {"isFile":true,"isDirectory":false,"name":"test.txt","fullPath":"/test.txt","filesystem":"<FileSystem: persistent>","nativeURL":"file:///Users/lars/Library/Developer/CoreSimulator/Devices/B5315030-6E6E-42AC-969E-E2673F9C5967/data/Containers/Data/Application/314C7867-21A7-49E2-A3B6-5427E14D27D5/Documents/test.txt"}
+2015-01-29 16:21:42.405 CreditCalc[31650:2224477] {"name":"test.txt","localURL":"cdvfile://localhost/persistent/test.txt","type":null,"lastModified":1422566500000,"lastModifiedDate":1422566500000,"size":4,"start":0,"end":4}
+2015-01-29 16:21:42.407 CreditCalc[31650:2224477] TADA
